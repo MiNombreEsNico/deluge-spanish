@@ -182,7 +182,7 @@ translate spanish p1c1_bcf17f79:
 translate spanish p1c1_270bf22e:
 
     # "She turned to me."
-    "Se volteo hacia mí."
+    "Se volvió hacia mí."
 
 # game/script.rpy:318
 translate spanish p1c1_d04ac5ed:
@@ -224,13 +224,13 @@ translate spanish p1c1_97ccf9d2:
 translate spanish p1c1_dbd6b10d:
 
     # n "—or at least it is since {i}I{/i} took over as editor-in-chief."
-    n "—o al menos lo es desde que me volví editora en jefe."
+    n "—o al menos lo es desde que asumí como editora en jefe."
 
 # game/script.rpy:336
 translate spanish p1c1_29843e26:
 
     # n "The Abbot doesn't play games, you know? Fourth place in the national ranking of school papers; an honorable mention by {i}The Evening Mirror{/i}—"
-    n "El Abbot no participa en juegos, ¿sabes? Cuarto lugar en el ranking nacional de trabajos escolares; una mención de honor de {i}The Evening Mirror{/i}—"
+    n "El Abbot no juega, ¿sabes? Cuarto lugar en el ranking nacional de trabajos escolares; una mención de honor de {i}The Evening Mirror{/i}—"
 
 # game/script.rpy:338
 translate spanish p1c1_2e2add4a:
@@ -470,7 +470,7 @@ translate spanish p1c1_10a14acd:
 translate spanish p1c2_ba95a845:
 
     # n "So you're finally there? The delivery guys left ages ago. I could have used some help with the boxes."
-    n "¿Así que finalmente estás aqui? Los repartidores se fueron hace años. Podrías haberme ayudado con las cajas."
+    n "¿Así que finalmente estás aqui? Los repartidores se fueron hace años. Podrías haber ayudado con las cajas."
 
 # game/script.rpy:487
 translate spanish p1c2_71226c93:
