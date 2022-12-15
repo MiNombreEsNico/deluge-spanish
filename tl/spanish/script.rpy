@@ -470,7 +470,7 @@ translate spanish p1c1_10a14acd:
 translate spanish p1c2_ba95a845:
 
     # n "So you're finally there? The delivery guys left ages ago. I could have used some help with the boxes."
-    n "¿Así que finalmente estás aqui? Los repartidores se fueron hace años. Podrías haber ayudado con las cajas."
+    n "¿Así que finalmente estás aqui? Los repartidores se fueron hace años. Podrías haberme ayudado con las cajas."
 
 # game/script.rpy:487
 translate spanish p1c2_71226c93:
