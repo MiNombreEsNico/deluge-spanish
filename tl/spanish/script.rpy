@@ -1940,7 +1940,7 @@ translate spanish p1c5_0792f4a0:
 translate spanish p1c5_400a7fbd:
 
     # n "Maybe Spengler {i}was{/i} right."
-    n "Quizás Spengler {i}tenía}{/i} razón."
+    n "Quizás Spengler {i}tenía{/i} razón."
 
 # game/script.rpy:1256
 translate spanish p1c5_0a3a5182:
@@ -2060,7 +2060,7 @@ translate spanish p1c6_19baa559:
 translate spanish p1c6_eb68ecb8:
 
     # m "I'm so glad you found your books again. {i}Please{/i} try to be more responsible next time."
-    m "Me alegro de que hayas vuelto a encontrar tus libros. {i}Intenta{/i} ser más responsable la próxima vez."
+    m "Me alegro de que hayas vuelto a encontrar tus libros. {i}Por favor{/i} intenta ser más responsable la próxima vez."
 
 # game/script.rpy:1340
 translate spanish p1c6_a5dbe784:
@@ -2625,7 +2625,7 @@ translate spanish p2c2_a669ace8:
 translate spanish p2c2_a6e2ce30:
 
     # r "I'm so glad you're getting involved with the school paper. Personally I don't really read it, but my father was absolutely lyrical about that cover piece you ran in the last issue."
-    r "Estoy tan contenta de que te involucres con el periódico de la escuela. Personalmente no lo leo realmente, pero mi padre fue absolutamente emocionado con el artículo de portada que publicaron en el último número."
+    r "Estoy tan contenta de que te involucres con el periódico de la escuela. Personalmente no lo leo realmente, pero mi padre estaba absolutamente emocionado con el artículo de portada que publicaron en el último número."
 
 # game/script.rpy:1712
 translate spanish p2c2_1bcddb8d:
