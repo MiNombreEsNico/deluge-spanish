@@ -3531,7 +3531,7 @@ translate spanish p2c3_e3bc57ff:
 translate spanish p2c3_a275d23a:
 
     # n "They had a field day with the whole affair."
-    n "Tuvieron un día de campo con todo el asunto."
+    n "Tuvieron un día ajetreado con todo el asunto."
 
 # game/script.rpy:2208
 translate spanish p2c3_4b61644e:
