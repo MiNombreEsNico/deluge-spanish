@@ -3987,7 +3987,7 @@ translate spanish p2c5_88c91c59:
 translate spanish p2c5_91a74f34:
 
     # n "You know they kept me up last night?"
-    n "¿Sabes que me mantuvieron despierto anoche?"
+    n "¿Sabes que me mantuvieron despierta anoche?"
 
 # game/script.rpy:2443
 translate spanish p2c5_385bd7d7:
@@ -5693,7 +5693,7 @@ translate spanish p2c7_024decab:
 translate spanish p2c7_17a12607:
 
     # m "{i}—to prevent {/i}madness."
-    m "{i}—a prevenir la locura.{/i}"
+    m "{i}—a prevenir {/i}la locura."
 
 # game/script.rpy:3357
 translate spanish p2c7_958af5dc:
@@ -27488,7 +27488,7 @@ translate spanish strings:
 
     # game/script.rpy:3403
     old "It's really time to get you to bed."
-    new "Realmente es hora de llevarte a la cama."
+    new "Realmente es hora de que te vayas a la cama."
 
     # game/script.rpy:3805
     old "I thought back to Sunday evening — and the words Mei had drowsily muttered into my ear."
