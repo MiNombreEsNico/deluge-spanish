@@ -5891,7 +5891,7 @@ translate spanish p3c1_3d142ab3:
 translate spanish p3c1_43406c14:
 
     # "—I myself was fully depleted. Hence it wasn't long before I collapsed onto the couch."
-    "—Yo estaba completamento agotado. Por lo tanto, no pasó mucho tiempo antes de que colapsara en el sofá."
+    "—Yo estaba completamente agotado. Por lo tanto, no pasó mucho tiempo antes de que colapsara en el sofá."
 
 # game/script.rpy:3561
 translate spanish p3c1_10692824:
@@ -5975,7 +5975,7 @@ translate spanish p3c1_584cbb0c:
 translate spanish p3c1_76a2e0d9:
 
     # n "I found one again, last week. After we reported on the farmhouse case."
-    n "Encontré uno de nuevo, la semana pasada. Después informamos sobre el caso de la casa en el campo"
+    n "Encontré uno de nuevo, la semana pasada. Después de que informamos sobre el caso de la casa en el campo"
 
 # game/script.rpy:3597
 translate spanish p3c1_94de94e3:
@@ -6143,7 +6143,7 @@ translate spanish p3c1_0e314d61:
 translate spanish p3c1_c55c7066:
 
     # n "But I'm sure he's the kind op person that could coldly eliminate someone who got in his way."
-    n "Pero estoy seguro de que es el tipo de persona que podría eliminar fríamente a alguien que se interpusiera en su camino."
+    n "Pero estoy segura de que es el tipo de persona que podría eliminar fríamente a alguien que se interpusiera en su camino."
 
 # game/script.rpy:3669
 translate spanish p3c1_5ad45a93:
@@ -6215,7 +6215,7 @@ translate spanish p3c1_556f7f5d:
 translate spanish p3c1_cb532e16:
 
     # n "That behavior. I don't think it can be explained as a primitive attribute of the uncivilized mind."
-    n "ese comportamiento No creo que pueda explicarse como un atributo primitivo de la mente incivilizada."
+    n "ese comportamiento. No creo que pueda explicarse como un atributo primitivo de la mente incivilizada."
 
 # game/script.rpy:3705
 translate spanish p3c1_e5bbbc17:
@@ -6287,7 +6287,7 @@ translate spanish p3c1_5b77dfcd:
 translate spanish p3c1_cb27f0e6:
 
     # n "I'm still interested in that appendix document that they keep there!"
-    n "¡Todavía estoy interesado en ese documento del apéndice que guardan allí!"
+    n "¡Todavía estoy interesada en ese documento del apéndice que guardan allí!"
 
 # game/script.rpy:3762
 translate spanish p3c2_a7a64c4c:
@@ -6605,7 +6605,7 @@ translate spanish p3c3_fc314bf1:
 translate spanish p3c3_10b561a4:
 
     # r "It's just a heap of whatever books the town gets their hands on."
-    r "Es solo un montón de cualquier libro que la ciudad tenga en sus manos."
+    r "Es solo un montón de libros cualquiera que la ciudad tenga en sus manos."
 
 # game/script.rpy:3947
 translate spanish p3c3_bc3eb833:
@@ -6701,7 +6701,7 @@ translate spanish p3c3_65fb11e1:
 translate spanish p3c3_b47c80c6:
 
     # r "{i}Spangler?{/i} Hmm."
-    r "Mmm... {i}Spangler?{/i}"
+    r "{i}¿Spangler?{/i} Mmm."
 
 # game/script.rpy:3990
 translate spanish p3c3_ab969c26:
@@ -6731,13 +6731,13 @@ translate spanish p3c3_15b9685d:
 translate spanish p3c3_717aabfd:
 
     # r "{i}Zoning Restrictions on the Construction of Prefabricated Cupolas, Third Revision.{/i}"
-    r "Restricciones de Zonificación para la Construcción de Cúpulas Prefabricadas, Tercera Revisión."
+    r "{i}Restricciones de Zonificación para la Construcción de Cúpulas Prefabricadas, Tercera Revisión.{/i}"
 
 # game/script.rpy:4001
 translate spanish p3c3_0a12c7bf:
 
     # r "{i}Annual Report of Home-Owners Association \"The Gilded Bulrush\".{/i}"
-    r "Informe Anual de la Asociación de Propietarios de Viviendas \"La Espadaña Dorada\"."
+    r "{i}Informe Anual de la Asociación de Propietarios de Viviendas \"La Espadaña Dorada\".{/i}"
 
 # game/script.rpy:4002
 translate spanish p3c3_de4b0d4b:
@@ -6749,7 +6749,7 @@ translate spanish p3c3_de4b0d4b:
 translate spanish p3c3_ac98ff87:
 
     # r "{i}On the Reproductional Habits of Fruit Flies{/i}?!! — what kind of person holds on to this trash?!"
-    r "¿Sobre los hábitos reproductivos de las moscas de la fruta? ¡¿Qué tipo de persona se aferra a esta porquería?!"
+    r "{i}¿Sobre los hábitos reproductivos de las moscas de la fruta{/i}?!! ¡¿Qué tipo de persona se aferra a esta porquería?!"
 
 # game/script.rpy:4007
 translate spanish p3c3_8a6525d5:
