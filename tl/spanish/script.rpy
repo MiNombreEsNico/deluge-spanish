@@ -7205,7 +7205,7 @@ translate spanish p3c4_78b0ce7b:
 translate spanish p3c4_cb14ea2e:
 
     # l "I don't work my people too hard. You need to take your time, enjoy life—"
-    l "Yo no trabajo a mi gente demasiado duro. Necesitas tomarte tu tiempo, disfrutar de la vida—"
+    l "Yo no hago trabajar a mi gente demasiado duro. Necesitas tomarte tu tiempo, disfrutar de la vida—"
 
 # game/script.rpy:4187
 translate spanish p3c4_cb943043:
@@ -7223,7 +7223,7 @@ translate spanish p3c4_31f3194d:
 translate spanish p3c4_cf89b64d:
 
     # l "Sometimes I would vent about it against Jan — and that's when he told me about the church inquiry."
-    l "A veces me desahogué con Jan, y fue entonces cuando me habló de la investigación de la iglesia."
+    l "A veces me desahogaba con Jan, y fue entonces cuando me habló de la investigación de la iglesia."
 
 # game/script.rpy:4191
 translate spanish p3c4_d7875e46:
@@ -7313,7 +7313,7 @@ translate spanish p3c4_97a322a5:
 translate spanish p3c4_0638506a:
 
     # a "You mean you {i}lost{/i} it?!"
-    a "¿Quieres decir que lo {i}perdiste{/i}?!"
+    a "¡¿Quieres decir que lo {i}perdiste{/i}?!"
 
 # game/script.rpy:4221
 translate spanish p3c4_b476971c:
@@ -7331,7 +7331,7 @@ translate spanish p3c4_a946940c:
 translate spanish p3c4_16f2c690:
 
     # l "I never lost it. It was {i}stolen{/i}."
-    l "Nunca lo perdí. {i}Fue robado{/i}."
+    l "Nunca lo perdí. Fue {i}robado{/i}."
 
 # game/script.rpy:4227
 translate spanish p3c4_aaa5b02a:
@@ -7385,7 +7385,7 @@ translate spanish p3c4_aa199d83:
 translate spanish p3c4_37e360e5:
 
     # l "In Sandford house of all places! Beautiful, stately Sandford house."
-    l "En la casa Sandford de todos los lugares! Hermosa y majestuosa casa Sandford."
+    l "¡En la casa Sandford de todos los lugares! Hermosa y majestuosa casa Sandford."
 
 # game/script.rpy:4241
 translate spanish p3c4_19a784d4:
@@ -7650,7 +7650,7 @@ translate spanish p3c5_28771390:
 translate spanish p3c5_13e34ed7:
 
     # n "You're going to the shore, with {i}two{/i} girls?"
-    n "¿Vas a la playa con {i}dos chicas{/i}?"
+    n "¿Vas a la playa con {i}dos{/i} chicas?"
 
 # game/script.rpy:4364
 translate spanish p3c5_6f9eff19:
@@ -7686,7 +7686,7 @@ translate spanish p3c5_c2583ebb:
 translate spanish p3c5_71ff8c12:
 
     # n "Hmpf. Then let's do Saturday."
-    n "Mmm... Entonces hagamos el sábado."
+    n "Mmm... Entonces hagamoslo el sábado."
 
 # game/script.rpy:4381
 translate spanish p3c5_dbb4f190:
@@ -7704,7 +7704,7 @@ translate spanish p3c5_defa419e:
 translate spanish p3c5_77c2c256:
 
     # n "Thanks for dinner. You should know for next time that I'm not too fond of seafood."
-    n "Gracias por la cena. Deberías saber para la próxima vez que no soy muy aficionado a los mariscos."
+    n "Gracias por la cena. Deberías saber para la próxima vez que no soy muy aficionada a los mariscos."
 
 # game/script.rpy:4390
 translate spanish p3c5_6f9fc1cd:
