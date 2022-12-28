@@ -7716,7 +7716,7 @@ translate spanish p3c5_6f9fc1cd:
 translate spanish p3c6_6dda2a84:
 
     # "The sun was blindingly bright that day. It shone its lazy beams into our carriage, which was empty save for the three of us."
-    "El sol brillaba cegadoramente ese día. Dirigió sus perezosos rayos hacia nuestro carruaje, que estaba vacío excepto por nosotros tres."
+    "El sol brillaba cegadoramente ese día. Dirigió sus perezosos rayos hacia nuestro vagón, que estaba vacío excepto por nosotros tres."
 
 # game/script.rpy:4418
 translate spanish p3c6_062de4c9:
@@ -7776,7 +7776,7 @@ translate spanish p3c6_0a50e035:
 translate spanish p3c6_6e440f1e:
 
     # m "And isn't the sun nice?"
-    m "Mei continuó hablando, sin inmutarse por los comentarios sarcásticos de Rika."
+    m "¿Y el sol no es agradable?"
 
 # game/script.rpy:4445
 translate spanish p3c6_6320e303:
@@ -7788,7 +7788,7 @@ translate spanish p3c6_6320e303:
 translate spanish p3c6_9fb133f6:
 
     # m "Rika, can we have ice cream later?"
-    m "Es tan cálido como un día de verano."
+    m "Rika, ¿podemos ir por helado despues?."
 
 # game/script.rpy:4448
 translate spanish p3c6_f8f94ca6:
@@ -8166,7 +8166,7 @@ translate spanish p3c6_33340d2a:
 translate spanish p3c6_9bb6495e:
 
     # m "Dive in? I really can't—"
-    m "¿Buceo en? Realmente no puedo—"
+    m "¿Sumergirnos? Realmente no puedo—"
 
 # game/script.rpy:4633
 translate spanish p3c6_bb170d74:
@@ -8220,7 +8220,7 @@ translate spanish p3c6_97a14a14:
 translate spanish p3c6_49f07a2d:
 
     # r "Oh I apologize. There's an interesting geological feature out there in the water that I felt like examining."
-    r "Ay me disculpo Hay una característica geológica interesante en el agua que tenía ganas de examinar."
+    r "Ay me disculpo. Hay una característica geológica interesante en el agua que tenía ganas de examinar."
 
 # game/script.rpy:4658
 translate spanish p3c6_3e211cd2:
@@ -8364,7 +8364,7 @@ translate spanish p3c7_447151bd:
 translate spanish p3c7_2b3e8ae0:
 
     # r "It's okay if you don't like them, Mei. I'll order you some potato fritters in a minute."
-    r "Está bien si no te gustan, Mei. Te pediré unos buñuelos de patata en un minuto."
+    r "Está bien si no te gustan, Mei. Te pediré unas patatas fritas en un minuto."
 
 # game/script.rpy:4745
 translate spanish p3c7_108f0137:
@@ -8502,7 +8502,7 @@ translate spanish p3c7_ef116e48:
 translate spanish p3c7_bd8f2e3b:
 
     # "Though the hall was draughty and uncomfortable, I felt a tingling sense of privilege as I stood above these great machines."
-    "Aunque la sala estaba llena de corrientes de aire e incómoda, sentí un hormigueo de privilegio mientras estaba de pie sobre estas grandes máquinas."
+    "Aunque la sala estaba llena de corrientes de aire y era incómoda, sentí un hormigueo de privilegio mientras estaba de pie sobre estas grandes máquinas."
 
 # game/script.rpy:4819
 translate spanish p3c7_de7fa70c:
@@ -8688,7 +8688,7 @@ translate spanish p3c7_d939b317:
 translate spanish p3c7_0e5653ad:
 
     # r "Due to the abundant prey, the spiders grew to unnatural sizes."
-    r "Noté que Mei se encogía en silencio."
+    r "Debido a la abundancia de presas, las arañas crecieron a tamaños no naturales."
 
 # game/script.rpy:4908
 translate spanish p3c7_ffe50ea8:
@@ -8910,8 +8910,7 @@ translate spanish p3c8_66dd307b:
 translate spanish p3c8_45a3affd:
 
     # "On our way inside, we passed a small booth where a church warden sat. Ina placed some money in the glass donation box that had a prominent place near the entrance."
-    "En nuestro camino hacia el interior, pasamos por una pequeña cabina donde estaba sentado un guardián de la iglesia."
-    "Ina colocó algo de dinero en la caja de donación de vidrio que tenía un lugar destacado cerca de la entrada"
+    "En nuestro camino hacia el interior, pasamos por una pequeña cabina donde estaba sentado un guardián de la iglesia. Ina colocó algo de dinero en la caja de donación de vidrio que tenía un lugar destacado cerca de la entrada"
 
 # game/script.rpy:5061
 translate spanish p3c8_30fb9e38:
@@ -8971,7 +8970,7 @@ translate spanish p3c8_b161832d:
 translate spanish p3c8_3edd41c9:
 
     # n "Anyway, it's time for us to make our move. If we stay in here for too long the warden will grow suspicious."
-    n "De todos modos, es hora de que hagamos nuestro movimiento. Si nos quedamos aquí demasiado tiempo, el alcaide sospechará."
+    n "De todos modos, es hora de que hagamos nuestro movimiento. Si nos quedamos aquí demasiado tiempo, el guardia sospechará."
 
 # game/script.rpy:5093
 translate spanish p3c8_0ff4a323:
@@ -9241,7 +9240,7 @@ translate spanish p3c8_a3e1129f:
 translate spanish p3c8_7e25a236:
 
     # n "Come on, let's check it out."
-    n "Vamos, vamos a comprobarlo."
+    n "Ven, vamos a comprobarlo."
 
 # game/script.rpy:5206
 translate spanish p3c8_ed011092:
@@ -9277,7 +9276,7 @@ translate spanish p3c8_f36b9ae1:
 translate spanish p3c8_52246baa:
 
     # "{i}What do you think you're doing down here?!{/i}"
-    "{i}¡¿Qué crees que estás haciendo aquí abajo?!{/i}"
+    "{i}¡¿Qué creen que están haciendo aquí abajo?!{/i}"
 
 # game/script.rpy:5218
 translate spanish p3c8_ecfc9afb:
@@ -9313,7 +9312,7 @@ translate spanish p3c8_02eff298:
 translate spanish p3c8_59525ec1:
 
     # "—and we sped-walked past the warden, who — though clearly oblivious to the whole affair — stared after us in amazement as we set off over the town square at Olympic speeds."
-    "—y pasamos a toda velocidad junto al alcaide, quien —aunque claramente ajeno a todo el asunto— nos miró con asombro mientras atravesábamos la plaza del pueblo a velocidades olímpicas."
+    "—y pasamos a toda velocidad junto al guardia, quien —aunque claramente ajeno a todo el asunto— nos miró con asombro mientras atravesábamos la plaza del pueblo a velocidades olímpicas."
 
 # game/script.rpy:5256
 translate spanish p3c9_75befc42:
@@ -9487,7 +9486,7 @@ translate spanish p3c9_90859234:
 translate spanish p3c9_a26f8cbe:
 
     # n "{i}With my interest piqued, I cautiously headed in the direction whence the scent came from. {/i}"
-    n "{i}Fue el miércoles por la noche, durante una de estas caminatas, que noté por primera vez una clara fragancia de humo que salía de las dunas.{/i}"
+    n "{i}Con mi interés despertado, me dirigí con cautela en la dirección de donde venía el olor.{/i}"
 
 # game/script.rpy:5364
 translate spanish p3c9_7be01a1c:
@@ -9559,7 +9558,7 @@ translate spanish p3c9_9fc05cd8:
 translate spanish p3c9_69fcc0cb:
 
     # n "{i}The LORD is a man of war, the LORD is His name.{/i}"
-    n "{i}El señor es varón de guerra, Jehová es su nombre.{/i}"
+    n "{i}El SEÑOR es varón de guerra, EL SEÑOR es su nombre.{/i}"
 
 # game/script.rpy:5400
 translate spanish p3c9_c3de0825:
@@ -9643,7 +9642,7 @@ translate spanish p3c9_edf13c99:
 translate spanish p3c9_fc7d1aca:
 
     # n "{i}And thus the beach was wholly clean again and there was no evidence for the morning tide to lay bare.{/i}"
-    n "{i}Y así la playa estaba completamente limpia de nuevo y no había evidencia de que la marea de la mañana dejara al descubierto.{/i}"
+    n "{i}Y así la playa estaba completamente limpia de nuevo y no había evidencia que la marea de la mañana dejara al descubierto.{/i}"
 
 # game/script.rpy:5437
 translate spanish p3c9_453f4072:
@@ -9769,7 +9768,7 @@ translate spanish p4c1_6cb56166:
 translate spanish p4c1_3e9999b3:
 
     # n "{i}The next morning I spent indoors, resting my weary head. I had abstained from putting my recent discoveries to paper, as I was aware the family would habitually go through my belongings, whenever I was out.{/i}"
-    n "{i}La mañana siguiente la pasé en el interior, descansando mi cabeza cansada. Me había abstenido de poner mis recientes descubrimientos por escrito, ya que sabía que mi familia habitualmente revisaba mis pertenencias, cada vez que yo estaba fuera.{/i}"
+    n "{i}La mañana siguiente la pasé en el interior, descansando mi cabeza cansada. Me había abstenido de poner mis recientes descubrimientos por escrito, ya que sabía que la familia habitualmente revisaba mis pertenencias, cada vez que yo estaba fuera.{/i}"
 
 # game/script.rpy:5599
 translate spanish p4c1_7c24ad48:
@@ -9901,7 +9900,7 @@ translate spanish p4c1_7adfae3a:
 translate spanish p4c1_23f91899:
 
     # n "{i}It was as though the motions of his hands and his body became more erratic and disjointed in nature.{/i}"
-    n "{/i}Era como si los movimientos de sus manos y su cuerpo se volvieran más erráticos y de naturaleza inconexa.{i}"
+    n "{i}Era como si los movimientos de sus manos y su cuerpo se volvieran más erráticos y de naturaleza inconexa.{/i}"
 
 # game/script.rpy:5654
 translate spanish p4c1_1d08d037:
@@ -10183,7 +10182,7 @@ translate spanish p4c2_a4832193:
 translate spanish p4c2_3142b3f6:
 
     # r "I realize I didn't leave you much of a choice, but I wanted you to know it meant a lot to me."
-    r "Me di cuenta de que no te dejé muchas opciones, pero quería que supieras que significaba mucho para mí."
+    r "Me di cuenta de que no te dejé muchas opciones, pero quería que supieras que significabas mucho para mí."
 
 # game/script.rpy:5805
 translate spanish p4c2_e63b85af:
@@ -10381,7 +10380,7 @@ translate spanish p4c2_12b3c4e0:
 translate spanish p4c2_7c8482ca:
 
     # r "I've been keeping you in the dark about a lot of things."
-    r "Te he estado manteniendo en la oscuridad sobre muchas cosas."
+    r "Te he estado manteniendo en la ignorancia sobre muchas cosas."
 
 # game/script.rpy:5905
 translate spanish p4c2_38e7e431:
@@ -10525,7 +10524,7 @@ translate spanish p4c2_bae6ed41:
 translate spanish p4c2_35c80eeb_1:
 
     # r "Please excuse me for now. I have to look my best for the afternoon service."
-    r "Por favor discúlpeme por ahora. Tengo que lucir lo mejor posible para el servicio de la tarde."
+    r "Por favor discúlpame por ahora. Tengo que lucir lo mejor posible para el servicio de la tarde."
 
 # game/script.rpy:5997
 translate spanish p4c2_1ed6cf78:
@@ -11215,7 +11214,7 @@ translate spanish p4c4_f1e49f86:
 translate spanish p4c4_9a7a2fe7:
 
     # a "I thought you told me this place {i}was{/i} the secret—"
-    a "Pensé que me habías dicho que este lugar {i}era el secreto{/i}—"
+    a "Pensé que me habías dicho que este lugar {i}era{/i} el secreto—"
 
 # game/script.rpy:6314
 translate spanish p4c4_83e562ce:
@@ -11305,7 +11304,7 @@ translate spanish p4c4_8e3ba0af:
 translate spanish p4c4_857e1e3a:
 
     # m "O-off with your head!"
-    m "¡Fuera de aquí!"
+    m "¡F-fuera de aquí!"
 
 # game/script.rpy:6390
 translate spanish p4c4_0a4f1a59:
@@ -11348,7 +11347,7 @@ translate spanish p4c6_e632aeea:
 translate spanish p4c7_3c1bdf6c:
 
     # "I found Ina in her bedroom, in mostly the same state as I'd left her."
-    "AEncontré a Ina en su dormitorio, casi en el mismo estado en que la había dejado."
+    "Encontré a Ina en su dormitorio, casi en el mismo estado en que la había dejado."
 
 # game/script.rpy:6454
 translate spanish p4c7_264bbfc5:
@@ -21679,7 +21678,7 @@ translate spanish p5M4_2db1a06d:
 translate spanish p5M4_11745609:
 
     # r "As the warden unlocked the wooden doors that lead to the main chapel, he heard a faint, exasperated wail."
-    r "Cuando el alcaide abrió las puertas de madera que conducen a la capilla principal, escuchó un leve gemido exasperado."
+    r "Cuando el guardia abrió las puertas de madera que conducen a la capilla principal, escuchó un leve gemido exasperado."
 
 # game/script.rpy:11661
 translate spanish p5M4_5412f21f:
@@ -27560,11 +27559,11 @@ translate spanish strings:
 
     # game/script.rpy:5934
     old "I'm afraid I have to pass on the offer."
-    new ""
+    new "Me temo que tengo que pasar la oferta."
 
     # game/script.rpy:6218
     old "Let me take a careful look."
-    new "Me temo que tengo que pasar la oferta."
+    new "Déjame echar un cuidadoso vistazo."
 
     # game/script.rpy:6218
     old "Y—you don't even know your own ancestors—?"
