@@ -10266,7 +10266,7 @@ translate spanish p4c2_331810f9:
 translate spanish p4c2_ee16eceb:
 
     # "My heart skipped a beat."
-    "Mi corazón saltó de un latido."
+    "Mi corazón se detuvo."
 
 # game/script.rpy:5832
 translate spanish p4c2_d9a74923:
