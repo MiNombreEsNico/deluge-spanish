@@ -11533,7 +11533,7 @@ translate spanish p4c7_d2a3b0fc:
 translate spanish p4c7_75fc1bb7:
 
     # n "It was one of the biggest farces I'd ever read."
-    n "Fue una de las farsas más grandes que jamás había leído.-"
+    n "Fue una de las farsas más grandes que jamás había leído."
 
 # game/script.rpy:6542
 translate spanish p4c7_9a496a71:
@@ -11707,7 +11707,7 @@ translate spanish p4c7_44bd0fce:
 translate spanish p4c7_b2c8c66b:
 
     # a "I haven't even been paid yet—"
-    a "Ni siquiera me han pagado todavía—"
+    a "Ni siquiera me has pagado todavía—"
 
 # game/script.rpy:6616
 translate spanish p4c7_49ff01d3:
@@ -11845,7 +11845,7 @@ translate spanish p4c7_793d0734:
 translate spanish p4c7_0a69db9d:
 
     # n "You really {i}do{/i} care, don't you?"
-    n "Realmente {i}te importa{/i}, ¿no?"
+    n "Realmente te {i}importa{/i}, ¿no?"
 
 # game/script.rpy:6733
 translate spanish p4c7_d3caff2d:
@@ -11881,7 +11881,7 @@ translate spanish p4c8_52ccd838:
 translate spanish p4c8_db59bdc6:
 
     # "She put away her phone and began dressing herself."
-    "Guardó su teléfono y comenzó a vestirse sola."
+    "Guardó su teléfono y comenzó a vestirse."
 
 # game/script.rpy:6767
 translate spanish p4c8_2c82beba:
@@ -11995,7 +11995,7 @@ translate spanish p5Ic1_08b726c3:
 translate spanish p5Ic1_5b09ecad:
 
     # k "Then, as I got up to bring my dishes to the kitchen, I suddenly saw a shadow in the corner of my eye."
-    k "Entonces, cuando me levanté para llevar mis platos a la cocina, de repente vi una sombra en el rabillo del ojo."
+    k "Entonces, cuando me levanté para llevar mis platos a la cocina, de repente vi una sombra por el rabillo del ojo."
 
 # game/script.rpy:6863
 translate spanish p5Ic1_fbe3ba77:
@@ -12043,7 +12043,7 @@ translate spanish p5Ic1_4d1d2f40:
 translate spanish p5Ic1_75d2b21a:
 
     # k "He'll have seen me lying out cold on the kitchen floor."
-    k "Me habrá visto tendido frío en el suelo de la cocina."
+    k "Me habrá visto tendida inmovil en el suelo de la cocina."
 
 # game/script.rpy:6882
 translate spanish p5Ic1_65f058ec:
@@ -12470,7 +12470,7 @@ translate spanish p5Ic2_48b47123:
 translate spanish p5Ic2_8e526ed5:
 
     # l "Please understand. The town in falling into the hands of zealots, without any regard for the public good."
-    l "Por favor entiende. El pueblo en caer en manos de fanáticos, sin ninguna consideración por el bien público."
+    l "Por favor entiende. El pueblo esta cayendo en manos de fanáticos, sin ninguna consideración por el bien público."
 
 # game/script.rpy:7073
 translate spanish p5Ic2_97c15fd2:
@@ -12500,7 +12500,7 @@ translate spanish p5Ic2_4a2513ad:
 translate spanish p5Ic2_8aa07f80:
 
     # l "—you know what they're like, these fundamentalists. So principled, so judgmental."
-    l "—Ya sabes cómo son, estos fundamentalistas. Tan principista, tan crítico."
+    l "—Ya sabes cómo son, estos fundamentalistas. Tan principistas, tan críticos."
 
 # game/script.rpy:7083
 translate spanish p5Ic2_a7fdc595:
@@ -12668,7 +12668,7 @@ translate spanish p5Ic2_f7d89581:
 translate spanish p5Ic2_26e07325:
 
     # n "Although I realize that we're currently facing a crucible of journalistic integrity, I draw the line here. Do you {i}understand{/i}?"
-    n "Aunque me doy cuenta de que actualmente nos enfrentamos a un crisol de integridad periodística, trazo la línea aquí. ¿Lo entiendes?"
+    n "Aunque me doy cuenta de que actualmente nos enfrentamos a un crisol de integridad periodística, trazo la línea aquí. ¿lo {i}entiendes{/i}?"
 
 # game/script.rpy:7139
 translate spanish p5Ic2_38eb92e3:
@@ -12770,7 +12770,7 @@ translate spanish p5Ic3_3a265997:
 translate spanish p5Ic3_51732a83:
 
     # n "No really. I feel dirty, even talking to him. What a revolting man he is."
-    n "No realmente. Me siento sucia, incluso hablando con él. Qué hombre repugnante es."
+    n "No realmente. Me siento sucia, incluso hablando con él. Qué hombre tan repugnante es."
 
 # game/script.rpy:7212
 translate spanish p5Ic3_e4d5fd7e:
@@ -12890,7 +12890,7 @@ translate spanish p5Ic3_3cad8e93:
 translate spanish p5Ic3_d86627ec:
 
     # "Though I could tell Ina was hesitant to talk about the matter, a grand apparatus had clearly begun churning inside her head."
-    "Aunque me di cuenta de que Ina dudaba en hablar sobre el asunto, un gran aparato claramente había comenzado a agitarse dentro de su cabeza."
+    "Aunque me di cuenta de que Ina dudaba en hablar sobre el asunto, los engranes claramente empezaron a girar dentro de su cabeza."
 
 # game/script.rpy:7252
 translate spanish p5Ic3_bf66b2c6:
@@ -13508,7 +13508,7 @@ translate spanish p5Ic3_11a21ed0:
 translate spanish p5Ic3_18bd0241:
 
     # n "I don't deserve to be editor-in-chief of {i}anything{/i}."
-    n "No merezco ser editor en jefe de nada."
+    n "No merezco ser editora en jefe de nada."
 
 # game/script.rpy:7473
 translate spanish p5Ic3_8dd07674:
@@ -13526,7 +13526,7 @@ translate spanish p5Ic3_f1acc956:
 translate spanish p5Ic3_0f1385f0:
 
     # n "They think only in terms of dominance — dominance by the strong, dominance over the meek."
-    n "Piensan sólo en términos de dominación: dominación de los fuertes, dominación de los mansos."
+    n "Piensan sólo en términos de dominación: dominación por los fuertes, dominación de los mansos."
 
 # game/script.rpy:7480
 translate spanish p5Ic3_ec7a9bc1:
@@ -13737,7 +13737,7 @@ translate spanish p5Ic4_877eb493:
 translate spanish p5Ic4_a128315a:
 
     # n "At the apex of the Roman imperium, scholars would publish long tracts about the immorality of procreation."
-    n "En la cúspide del imperio romano, los eruditos publicarían extensos tratados sobre la inmoralidad de la procreación."
+    n "En la cúspide del imperio romano, los eruditos publicaban extensos tratados sobre la inmoralidad de la procreación."
 
 # game/script.rpy:7605
 translate spanish p5Ic4_4af8a960:
@@ -13761,7 +13761,7 @@ translate spanish p5Ic4_7b2315dc:
 translate spanish p5Ic4_2b2a1563:
 
     # "And as we walked further — a sticky, lukewarm precipitation began to rain down from the sky."
-    "Y a medida que avanzábamos, una precipitación tibia y pegajosa comenzó a caer del cielo."
+    "Y a medida que avanzábamos, una precipitación tibia y humeda comenzó a caer del cielo."
 
 # game/script.rpy:7621
 translate spanish p5Ic4_e6c0f224:
@@ -13833,7 +13833,7 @@ translate spanish p5Ic4_e5010750:
 translate spanish p5Ic4_6e4cbd23:
 
     # n "Come on, let's go home. I want to make a newspaper!"
-    n "Vamos, vamos a casa. ¡Quiero hacer un periódico!"
+    n "Vamos, a casa. ¡Quiero hacer un periódico!"
 
 # game/script.rpy:7642
 translate spanish p5Ic4_6c557960:
@@ -13851,7 +13851,7 @@ translate spanish p5Ic4_a7cfbe65:
 translate spanish p5Ic4_ad8eab80:
 
     # "That night — to the constant noise of torrential rain beating against the window — we worked on our big feature article."
-    "Esa noche, con el ruido constante de la lluvia torrencial golpeando contra la ventana, trabajamos en nuestro gran artículo de fondo."
+    "Esa noche, con el ruido constante de la lluvia torrencial golpeando contra la ventana, trabajamos en nuestro gran artículo."
 
 # game/script.rpy:7656
 translate spanish p5Ic4_2f35fab9:
@@ -14049,7 +14049,7 @@ translate spanish p5Ic5_23ffa02c:
 translate spanish p5Ic5_1c51db76:
 
     # "The rain could erode the brittle soil, carrying away large amounts of earth through the waterways — eventually clogging the drainage systems downstream."
-    "La lluvia podría erosionar el suelo quebradizo, arrastrando grandes cantidades de tierra a través de las vías fluviales y eventualmente obstruyendo los sistemas de drenaje aguas abajo."
+    "La lluvia podría erosionar el suelo quebradizo, arrastrando grandes cantidades de tierra a través de las vías fluviales y eventualmente obstruyendo los sistemas de drenaje aguas rio abajo."
 
 # game/script.rpy:7780
 translate spanish p5Ic5_1a314349:
@@ -14325,7 +14325,7 @@ translate spanish p5Ic6_e0750be7:
 translate spanish p5Ic6_73813daf:
 
     # r "{i}God is jealous, the LORD avenges;{/i}"
-    r "{i}Dios es celoso, el SEÑOR venga;{/i}"
+    r "{i}Dios es celoso, el SEÑOR vengará;{/i}"
 
 # game/script.rpy:7939
 translate spanish p5Ic6_904f65d4:
@@ -14583,7 +14583,7 @@ translate spanish p5Ic7_7bfc558c:
 translate spanish p5Ic7_3525aa34:
 
     # "Ina had just made a phonecall to the police, to report the damage to the pumps."
-    ""
+    "Ina acababa de hacer una llamada telefónica a la policía para denunciar los daños en las bombas."
 
 # game/script.rpy:8089
 translate spanish p5Ic7_9868e249:
