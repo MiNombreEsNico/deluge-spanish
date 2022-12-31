@@ -224,7 +224,7 @@ translate spanish p1c1_97ccf9d2:
 translate spanish p1c1_dbd6b10d:
 
     # n "—or at least it is since {i}I{/i} took over as editor-in-chief."
-    n "—o al menos lo es desde que asumí como editora en jefe."
+    n "—o al menos lo es desde que {i}yo{/i} asumí como editora en jefe."
 
 # game/script.rpy:336
 translate spanish p1c1_29843e26:
@@ -632,7 +632,7 @@ translate spanish p1c2_9801bbb5_2:
 translate spanish p1c2_56837fa5:
 
     # "{i}Please stop hiding! Sigurd!{/i}"
-    "¡Por favor, deja de esconderte! ¡Sigurd!"
+    "{i}¡Por favor, deja de esconderte! ¡Sigurd!{/i}"
 
 # game/script.rpy:587
 translate spanish p1c2_21249a2b:
@@ -878,7 +878,7 @@ translate spanish p1c2_9538dea8:
 translate spanish p1c2_cd47ca2d:
 
     # k "This is very interesting {i}indeed{/i} — what you've dug up here."
-    k "Esto es realmente {i}muy{/i} interesante, lo que han desenterrado aquí."
+    k "Esto es {i}verdaderamente{/i} muy interesante, lo que han desenterrado aquí."
 
 # game/script.rpy:712
 translate spanish p1c2_7d709d9b:
@@ -1580,7 +1580,7 @@ translate spanish p1c5_8a9d8d71:
 translate spanish p1c5_6ddfa722:
 
     # a "The {i}what{/i} now?"
-    a "¿Y {i}ahora qué{/i}?"
+    a "¿Y ahora {i}qué{/i}?"
 
 # game/script.rpy:1091
 translate spanish p1c5_d74596ca:
@@ -1778,13 +1778,13 @@ translate spanish p1c5_92e48b1d:
 translate spanish p1c5_6d0cff3c:
 
     # a "There {i}was{/i} something strange Rika said—"
-    a "Hubo {i}algo{/i} extraño que Rika dijo—"
+    a "{i}Hubo{/i} algo extraño que Rika dijo—"
 
 # game/script.rpy:1178
 translate spanish p1c5_eededbc7:
 
     # a "I believe she called this place the {i}Isle of Abbot{/i}. Does that make sense to you?"
-    a "Creo que llamó a este lugar la Isla de Abbot. ¿Tiene eso sentido para ti?"
+    a "Creo que llamó a este lugar la {i}Isla de Abbot{/i}. ¿Tiene eso sentido para ti?"
 
 # game/script.rpy:1181
 translate spanish p1c5_a06249a1:
@@ -2991,7 +2991,7 @@ translate spanish p2c3_4fe1055e:
 translate spanish p2c3_b8ab62d4:
 
     # n "Yeah she {i}would{/i}, wouldn't she."
-    n "Sí, lo hiciste, ¿no?"
+    n "Sí ella lo {i}haria{/i}, ¿no?"
 
 # game/script.rpy:1950
 translate spanish p2c3_5ef96cb7:
@@ -3117,7 +3117,7 @@ translate spanish p2c3_529daae2:
 translate spanish p2c3_cb18d357:
 
     # a "You know what? There {i}was{/i} something strange Rika told me this morning."
-    a "¿Sabes que? Rika me dijo {i}algo extraño{/i} esta mañana."
+    a "¿Sabes que? Rika me {i}dijo{/i} algo extraño esta mañana."
 
 # game/script.rpy:1997
 translate spanish p2c3_6a908319:
@@ -3213,7 +3213,7 @@ translate spanish p2c3_4aa856aa:
 translate spanish p2c3_33df1ea0:
 
     # n "Any dirt on them, old or new, will surely cause a stir — {i}much{/i} more than any aberrant migration pattern of insects ever will."
-    n "Cualquier chisme sobre ellos, viejo o nuevo, seguramente causará un gran revuelo, mucho más que cualquier patrón de migración aberrante de insectos jamás podrá."
+    n "Cualquier chisme sobre ellos, viejo o nuevo, seguramente causará un gran revuelo, {i}mucho{/i} más que cualquier patrón de migración aberrante de insectos jamás podrá."
 
 # game/script.rpy:2025
 translate spanish p2c3_9a8492ca:
@@ -3447,7 +3447,7 @@ translate spanish p2c3_3f72f545:
 translate spanish p2c3_b57143b8:
 
     # n "Didn't I {i}tell{/i} you?"
-    n "{i}¿No te lo dije?{/i}"
+    n "¿No te lo {i}dije{/i}?"
 
 # game/script.rpy:2155
 translate spanish p2c3_30c60fc9:
@@ -3459,7 +3459,7 @@ translate spanish p2c3_30c60fc9:
 translate spanish p2c3_8adbc28a:
 
     # n "It was around this time last year when the {i}Evening Mirror{/i} — a smutty tabloid — published a series of compromising photographs of an influential Abbotsford politician."
-    n "Fue el año pasado por esta época cuando el Evening Mirror, un tabloide obsceno, publicó una serie de fotografías comprometedoras de un influyente político de Abbotsford."
+    n "Fue el año pasado por esta época cuando el {i}Evening Mirror{/i}, un tabloide obsceno, publicó una serie de fotografías comprometedoras de un influyente político de Abbotsford."
 
 # game/script.rpy:2159
 translate spanish p2c3_62ef6e16:
@@ -3471,7 +3471,7 @@ translate spanish p2c3_62ef6e16:
 translate spanish p2c3_9be90492:
 
     # n "The politician in question is named Leopold. Leopold {i}marquis of Abbot{/i}, to be precise — a member of the nobility. He still holds a seat in the Abbotsford city council."
-    n "{i}El político en cuestión se llama Leopoldo. Leopold marqués de Abbot, para ser precisos, un miembro de la nobleza. Todavía ocupa un puesto en el consejo de la ciudad de Abbotsford.{/i}"
+    n "El político en cuestión se llama Leopoldo. Leopold {i}marqués de Abbot{/i}, para ser precisos, un miembro de la nobleza. Todavía ocupa un puesto en el consejo de la ciudad de Abbotsford."
 
 # game/script.rpy:2170
 translate spanish p2c3_01401c67:
@@ -3585,7 +3585,7 @@ translate spanish p2c4_39c61662:
 translate spanish p2c4_53827e53:
 
     # "Sadly, as I searched in vain, it began to dawn on me why Ina had unloaded this piece on me. Abbotsford really didn't have {i}any{/i} progress to report—"
-    "Lamentablemente, mientras buscaba en vano, comencé a darme cuenta de por qué Ina me había encargado esta pieza. Abbotsford realmente no tenía ningún progreso que informar—"
+    "Lamentablemente, mientras buscaba en vano, comencé a darme cuenta de por qué Ina me había encargado esta pieza. Abbotsford realmente no tenía {i}ningún{/i} progreso que informar—"
 
 # game/script.rpy:2248
 translate spanish p2c4_c4b27dc3:
@@ -4257,7 +4257,7 @@ translate spanish p2c5_28196e58:
 translate spanish p2c5_7e515a4c:
 
     # n "{i}Though we as passengers were distraught by the sudden onset of the storm, our captain reassured us that sudden gales were not uncommon on this strait of Ala Bay.{/i}"
-    n "Aunque nosotros, como pasajeros, estábamos angustiados por el inicio repentino de la tormenta, nuestro capitán nos aseguró que los vendavales repentinos no eran raros en este estrecho de Bahía Ala."
+    n "{i}Aunque nosotros, como pasajeros, estábamos angustiados por el inicio repentino de la tormenta, nuestro capitán nos aseguró que los vendavales repentinos no eran raros en este estrecho de Bahía Ala.{/i}"
 
 # game/script.rpy:2616
 translate spanish p2c5_88656d0e:
@@ -4727,7 +4727,7 @@ translate spanish p2c6_3908ba32:
 translate spanish p2c6_80c889f6:
 
     # "When I arrived at {i}Omophagia{/i} — one of the few licensed establishments in town — Rika sat waiting on me."
-    "Cuando llegué a Omophagia, uno de los pocos establecimientos autorizados de la ciudad, Rika estaba sentada esperándome."
+    "Cuando llegué a {i}Omophagia{/i}, uno de los pocos establecimientos autorizados de la ciudad, Rika estaba sentada esperándome."
 
 # game/script.rpy:2888
 translate spanish p2c6_271959f8:
@@ -4793,7 +4793,7 @@ translate spanish p2c6_3c870f5e:
 translate spanish p2c6_263a3687:
 
     # a "What do you mean with {i}on her level{/i}?"
-    a "¿Qué quieres decir con a su nivel?"
+    a "¿Qué quieres decir con {i}a su nivel{/i}?"
 
 # game/script.rpy:2915
 translate spanish p2c6_1de7cfe3:
@@ -5783,7 +5783,7 @@ translate spanish p2c7_6a66a7d4:
 translate spanish p2c7_bf22b4df:
 
     # m "—{i}Sigurd!{/i}"
-    m "{i}—¡Sigurd!{/i}"
+    m "—{i}¡Sigurd!{/i}"
 
 # game/script.rpy:3417
 translate spanish p2c7_94c59a04:
@@ -5885,7 +5885,7 @@ translate spanish p3c1_32baedd0:
 translate spanish p3c1_3d142ab3:
 
     # "And though {i}she{/i} appeared sharper than ever, tirelessly paging through her notebook, making phone calls, transcribing audio recordings she'd made—"
-    "Aunque parecía más determinada que nunca, hojeando incansablemente su cuaderno, haciendo llamadas, transcribiendo grabaciones que había hecho—"
+    "Aunque {i}ella{/i} parecía más determinada que nunca, hojeando incansablemente su cuaderno, haciendo llamadas, transcribiendo grabaciones que había hecho—"
 
 # game/script.rpy:3558
 translate spanish p3c1_43406c14:
@@ -6041,7 +6041,7 @@ translate spanish p3c1_029543be:
 translate spanish p3c1_b1c70ebd:
 
     # a "So do you have {i}any{/i} idea who planned the attack on Karin?"
-    a "Entonces, ¿tienes alguna idea de quien planeo el {i}ataque{/i} a Karin?"
+    a "Entonces, ¿tienes {i}alguna{/i} idea de quien planeo el ataque a Karin?"
 
 # game/script.rpy:3627
 translate spanish p3c1_21494792:
@@ -6167,7 +6167,7 @@ translate spanish p3c1_3de4e8f2:
 translate spanish p3c1_bca250af:
 
     # n "A slight squint that, though barely noticeable at first, somehow warps his entire face into an expression I could only describe as being— {i}detached{/i}."
-    n "Un ligero estrabismo que, aunque apenas perceptible al principio, de alguna manera deforma todo su rostro en una expresión que solo podría describir como: indiferente."
+    n "Un ligero estrabismo que, aunque apenas perceptible al principio, de alguna manera deforma todo su rostro en una expresión que solo podría describir como: {i}indiferente{/i}."
 
 # game/script.rpy:3682
 translate spanish p3c1_23a7ee1c:
@@ -6185,7 +6185,7 @@ translate spanish p3c1_cf2a2578:
 translate spanish p3c1_22faec81:
 
     # n "The {i}true{/i} cause for his demeanor must come from a place far deeper inside. "
-    n "La verdadera causa de su comportamiento debe provenir de un lugar mucho más profundo en su interior."
+    n "La {i}verdadera{/i} causa de su comportamiento debe provenir de un lugar mucho más profundo en su interior."
 
 # game/script.rpy:3689
 translate spanish p3c1_ebbca8a8:
@@ -6443,7 +6443,7 @@ translate spanish p3c2_826bf78f:
 translate spanish p3c2_5e8313b9:
 
     # r "Sure. Or will my presence {i}ruin{/i} the little plan you had in mind?"
-    r "Por supuesto. ¿O mi presencia arruinará el pequeño plan que tenías en mente?"
+    r "Por supuesto. ¿O mi presencia {i}arruinará{/i} el pequeño plan que tenías en mente?"
 
 # game/script.rpy:3838
 translate spanish p3c2_2c82260d:
@@ -6881,7 +6881,7 @@ translate spanish p3c3_1c42b226:
 translate spanish p3c3_113c8354:
 
     # a "I'm looking for the appendix to the {i}Theological Inquiries into the Church of Abbot{/i}—"
-    a "{i}Estoy buscando el apéndice de las Investigaciones teológicas sobre la Iglesia de Abbot{/i}—"
+    a "Estoy buscando el apéndice de las {i}Investigaciones teológicas sobre la Iglesia de Abbot{/i}—"
 
 # game/script.rpy:4069
 translate spanish p3c3_fe1b8bc6:
@@ -7103,7 +7103,7 @@ translate spanish p3c4_ff36a4b6:
 translate spanish p3c4_010b46e2:
 
     # l "It's been lent out to {i}me{/i}, to be precise—"
-    l "Me lo han prestado, para ser precisos—"
+    l "{i}Me{/i} lo han prestado, para ser precisos—"
 
 # game/script.rpy:4159
 translate spanish p3c4_d3773826:
@@ -7956,7 +7956,7 @@ translate spanish p3c6_be74b898:
 translate spanish p3c6_bc9d3f8c:
 
     # m "Well, her parents {i}did{/i} hire personal trainer for her, you know."
-    m "Bueno, sus padres {i}contrataron un entrenador personal{/i} para ella, ya sabes."
+    m "Bueno, sus padres {i}contrataron{/i} un entrenador personal para ella, ya sabes."
 
 # game/script.rpy:4532
 translate spanish p3c6_0102fb7b:
@@ -8016,7 +8016,7 @@ translate spanish p3c6_fc2d50a2:
 translate spanish p3c6_cc7552f1:
 
     # a "She {i}does{/i} have a sophisticated sense of humor, doesn't she?"
-    a "Tiene un {i}sofisticado{/i} sentido del humor, ¿no?"
+    a "{i}Tiene{/i} un sofisticado sentido del humor, ¿no?"
 
 # game/script.rpy:4567
 translate spanish p3c6_b732da73:
@@ -9606,13 +9606,13 @@ translate spanish p3c9_9cad61c4:
 translate spanish p3c9_671a8b85:
 
     # n "{i}And he spoke more blasphemous and unholy names, many of which I had not seen in any text, religious or profane. And a name I distinctly recall crossing his lips was that of a certain {/i}Lotan{i}.{/i}"
-    n "{i}Y pronunció más nombres blasfemos y profanos, muchos de los cuales no había visto en ningún texto, religioso o profano. Y un nombre que recuerdo claramente cruzando sus labios fue el de un tal Lotan.{/i}"
+    n "{i}Y pronunció más nombres blasfemos y profanos, muchos de los cuales no había visto en ningún texto, religioso o profano. Y un nombre que recuerdo claramente cruzando sus labios fue el de un tal {/i}Lotan{i}.{/i}"
 
 # game/script.rpy:5423
 translate spanish p3c9_0695faa5:
 
     # n "{i}And he described Lotan as infinite, as being without end.{/i}"
-    n "{i}Y describió a Lotán como infinito, sin fin.{/i}"
+    n "{i}Y describió a Lotán como infinito, como un ser sin fin.{/i}"
 
 # game/script.rpy:5425
 translate spanish p3c9_f842074b:
@@ -9678,7 +9678,7 @@ translate spanish p3c9_7ebdfa12:
 translate spanish p3c9_cc60ef9d:
 
     # n "{i}And it was not until{/i}—{nw}"
-    n "{i}Y no fue hasta que—{/i}"
+    n "{i}Y no fue hasta que{/i}—{nw}"
 
 # game/script.rpy:5457
 translate spanish p3c9_50dcacc4:
@@ -9996,7 +9996,7 @@ translate spanish p4c1_379e056a:
 translate spanish p4c1_5be012d2:
 
     # n "{i}But it {/i}knew{i} Hendrika. {/i}"
-    n "{i}Pero conocía a Hendrika.{/i}"
+    n "{i}Pero {/i}conocía{i} a Hendrika.{/i}"
 
 # game/script.rpy:5687
 translate spanish p4c1_14e8eaad:
@@ -10308,7 +10308,7 @@ translate spanish p4c2_d52e934b:
 translate spanish p4c2_95606066:
 
     # r "—{i}didn't{/i} you?" nointeract
-    r "¿{i}Realmente{/i} no lo encontraste?" nointeract
+    r "¿No lo {i}encontraste{/i}?" nointeract
 
 # game/script.rpy:5855
 translate spanish p4c2_b9d4588a:
@@ -10680,7 +10680,7 @@ translate spanish p4c4_3211bf05:
 translate spanish p4c4_1fd06ce7:
 
     # "{i}Phyrrus!{/i}"
-    "{i}Phyrrus!{/i}"
+    "{i}¡Phyrrus!{/i}"
 
 # game/script.rpy:6094
 translate spanish p4c4_5cd5c100:
@@ -10770,7 +10770,7 @@ translate spanish p4c4_fcba268d:
 translate spanish p4c4_1acb0ef3:
 
     # a "So what {i}is{/i} the big emergency you called me for?"
-    a "Entonces, ¿cuál es la gran {i}emergencia{/i} por la que me llamaste?"
+    a "Entonces, ¿cuál {i}es{/i} la gran emergencia por la que me llamaste?"
 
 # game/script.rpy:6129
 translate spanish p4c4_ce64bb64:
@@ -10836,7 +10836,7 @@ translate spanish p4c4_dc1113ea:
 translate spanish p4c4_215e841a:
 
     # m "It's true! {i}You{/i} didn't know about it, did you?"
-    m "¡Es verdad! {i}No lo sabías{/i}, ¿verdad?"
+    m "¡Es verdad! No lo {i}sabías{/i}, ¿verdad?"
 
 # game/script.rpy:6150
 translate spanish p4c4_f227d5ca:
@@ -13508,7 +13508,7 @@ translate spanish p5Ic3_11a21ed0:
 translate spanish p5Ic3_18bd0241:
 
     # n "I don't deserve to be editor-in-chief of {i}anything{/i}."
-    n "No merezco ser editora en jefe de nada."
+    n "No merezco ser editora en jefe de {i}nada{/i}."
 
 # game/script.rpy:7473
 translate spanish p5Ic3_8dd07674:
@@ -13605,7 +13605,7 @@ translate spanish p5Ic3_510d91e6:
 translate spanish p5Ic3_73705363:
 
     # n "—but please, could you give me {i}one{/i} last chance?"
-    n "—pero por favor, ¿podrías darme una {i}última{/i} oportunidad?"
+    n "—pero por favor, ¿podrías darme {i}una{/i} última oportunidad?"
 
 # game/script.rpy:7509
 translate spanish p5Ic3_f2f434a2:
@@ -14121,7 +14121,7 @@ translate spanish p5Ic5_1dec12cf:
 translate spanish p5Ic5_716e2274:
 
     # m "Let's go and explore. Granite becomes so {i}beautiful{/i} in rainy weather."
-    m "Vamos y exploremos. El granito se vuelve tan hermoso cuando llueve."
+    m "Vamos y exploremos. El granito se vuelve tan {i}hermoso{/i} cuando llueve."
 
 # game/script.rpy:7808
 translate spanish p5Ic5_e958d6a5:
@@ -14565,7 +14565,7 @@ translate spanish p5Ic6_dd68dd6d:
 translate spanish p5Ic6_03e77faf:
 
     # r "And to think that we have such a {i}convenient{/i} scapegoat now!"
-    r "¡Y pensar que ahora tenemos un chivo expiatorio tan conveniente!"
+    r "¡Y pensar que ahora tenemos un chivo expiatorio tan {i}conveniente{/i}!"
 
 # game/script.rpy:8062
 translate spanish p5Ic6_5fff9ffd:
