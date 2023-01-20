@@ -15375,7 +15375,7 @@ translate spanish p5Ic8_db48f674:
 translate spanish p5Ic8_e641ad7b:
 
     # a "I hope you're right."
-    a "Espero que estés bien."
+    a "Espero que estés en lo correcto."
 
 # game/script.rpy:8396
 translate spanish p5Ic8_4c2ad64a:
