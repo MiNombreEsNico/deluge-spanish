@@ -14631,7 +14631,7 @@ translate spanish p5Ic7_04c0b848:
 translate spanish p5Ic7_06e29fe2:
 
     # n "The water's reached the city, and the towns. Only Abbotsford will remain dry, due to its relative elevation."
-    n "El agua ha llegado a la ciudad ya los pueblos. Solo Abbotsford permanecerá seco debido a su relativa elevación."
+    n "El agua ha llegado a la ciudad, y a los pueblos. Solo Abbotsford permanecerá seco debido a su relativa elevación."
 
 # game/script.rpy:8129
 translate spanish p5Ic7_18d696b4:
@@ -14691,7 +14691,7 @@ translate spanish p5Ic7_b7d0d5c1:
 translate spanish p5Ic7_413d6357:
 
     # "Wordlessly she walked over to her cabinet, where a small cd-player stood."
-    "Sin pronunciar palabra, se acercó a su armario, donde había un pequeño reproductor de CD."
+    "Sin pronunciar una palabra, se acercó a su armario, donde había un pequeño reproductor de CD."
 
 # game/script.rpy:8150
 translate spanish p5Ic7_5f402e60:
@@ -14775,7 +14775,7 @@ translate spanish p5Ic7_09f9ed88:
 translate spanish p5Ic7_0212a27c:
 
     # n "—at most I can dutifully laugh at the primitive mythologies of our forefathers."
-    n "—a lo sumo puedo reírme obedientemente de las mitologías primitivas de nuestros antepasados."
+    n "—a lo mucho puedo reírme obedientemente de las mitologías primitivas de nuestros antepasados."
 
 # game/script.rpy:8182
 translate spanish p5Ic7_e1cae7dc:
@@ -14793,7 +14793,7 @@ translate spanish p5Ic7_05804a39:
 translate spanish p5Ic7_c7a6998d:
 
     # n "We uncover things. We demystify them. "
-    n "Descubrimos cosas. Los desmitificamos."
+    n "Descubrimos cosas. Las desmitificamos."
 
 # game/script.rpy:8188
 translate spanish p5Ic7_25c18206:
@@ -14847,7 +14847,7 @@ translate spanish p5Ic7_3f371503:
 translate spanish p5Ic7_84447b0c:
 
     # n "We can only wait, bitterly, till the end."
-    n "Solo podemos esperar, amargamente, hasta el final."
+    n "Solo podemos esperar con amargura, hasta el final."
 
 # game/script.rpy:8209
 translate spanish p5Ic7_97446e41:
@@ -14955,13 +14955,13 @@ translate spanish p5Ic7_bb561de2:
 translate spanish p5Ic7_03664c19:
 
     # n "They're cynical, traditionless, religionless, rational, clever, smug, polite. And all so highly contemptuous of the countryman."
-    n "Son cínicos, sin tradiciones, sin religión, racionales, inteligentes, presumidos, educados. Y todo tan sumamente despectivo del paisano."
+    n "Son cínicos, sin tradiciones, sin religión, racionales, inteligentes, presumidos, educados. Y todo tan sumamente despreciativo del paisano."
 
 # game/script.rpy:8240
 translate spanish p5Ic7_13123e08:
 
     # n "At times it is as though the cities meld together, to form one large, pulsating whole of limitless dystopia. "
-    n "A veces es como si las ciudades se fusionaran para formar un todo grande y palpitante de distopía ilimitada."
+    n "A veces es como si las ciudades se fusionaran, para formar una extencion, palpitante de distopía ilimitada."
 
 # game/script.rpy:8243
 translate spanish p5Ic7_a356740a:
@@ -14973,13 +14973,13 @@ translate spanish p5Ic7_a356740a:
 translate spanish p5Ic7_c9f424a2:
 
     # n "Places where life isn't governed by rosters and indicators and emancipated reason — but where customs prevail that are fundamentally {i}anti-modern{/i} in nature."
-    n "Lugares donde la vida no se rige por listas e indicadores y la razón emancipada, sino donde prevalecen costumbres fundamentalmente {i}antimodernas.{/i}"
+    n "Lugares donde la vida no se rige por listas e indicadores y la razón emancipada, sino donde prevalecen costumbres de naturaleza fundamentalmente {i}antimodernas,{/i}"
 
 # game/script.rpy:8245
 translate spanish p5Ic7_fc6b6d1d:
 
     # n "In the name of reason, they foster an irrational hatred of all that they paradoxically deem irrational. "
-    n "En nombre de la razón, fomentan un odio irracional hacia todo lo que paradójicamente juzgan irracional."
+    n "En nombre de la razón, fomentan un odio irracional hacia todo lo que paradójicamente juzgan de irracional."
 
 # game/script.rpy:8247
 translate spanish p5Ic7_026a4594:
@@ -15225,7 +15225,7 @@ translate spanish p5Ic7_d5d6c836:
 translate spanish p5Ic7_f9d3489a:
 
     # n "It's calling to be euthanized, to be shredded into the fertilizer for younger, more vigorous cultures to come—"
-    n "Está llamando a ser sacrificada, a ser triturada en el fertilizante para las culturas más jóvenes y vigorosas por venir—"
+    n "Está llamanda a ser sacrificada, a ser triturada en el fertilizante para las culturas más jóvenes y vigorosas por venir—"
 
 # game/script.rpy:8324
 translate spanish p5Ic7_d67084ac:
@@ -15453,7 +15453,7 @@ translate spanish p5Ic8_847b7c06:
 translate spanish p5Ic8_254ca6c2:
 
     # l "Then you go there — keep her busy, make sure she doesn't leave."
-    l "Luego ve allí: mantenla ocupada, asegúrate de que no se vaya."
+    l "Entonces ve allí: mantenla ocupada, asegúrate de que no se vaya."
 
 # game/script.rpy:8419
 translate spanish p5Ic8_8f6f41da:
@@ -15465,7 +15465,7 @@ translate spanish p5Ic8_8f6f41da:
 translate spanish p5Ic8_5b2bc74e:
 
     # l "Just look at it, beautiful Sandford house. The seat of my forefathers."
-    l "Solo míralo, hermosa casa de Sandford. La sede de mis antepasados."
+    l "Solo mírala, hermosa casa de Sandford. La sede de mis antepasados."
 
 # game/script.rpy:8423
 translate spanish p5Ic8_211f3e09:
@@ -15507,7 +15507,7 @@ translate spanish p5Ic9_09069dc0:
 translate spanish p5Ic9_2cff4c1e:
 
     # "It was an unnatural, guttural sound, unlike any other human speech."
-    "Era un sonido gutural antinatural, diferente a cualquier otro habla humana."
+    "Era un sonido gutural, antinatural, diferente a cualquier otro habla humana."
 
 # game/script.rpy:8473
 translate spanish p5Ic9_d36444cb:
@@ -15549,7 +15549,7 @@ translate spanish p5Ic9_ec37781e:
 translate spanish p5Ic9_55f90a38:
 
     # r "Oh Abraham, I'm so glad you've come to witness this moment of glorious retribution."
-    r "Oh Abraham, estoy tan contento de que hayas venido a presenciar este momento de gloriosa retribución."
+    r "Oh Abraham, estoy tan contenta de que hayas venido a presenciar este momento de gloriosa retribución."
 
 # game/script.rpy:8503
 translate spanish p5Ic9_18dfde54:
@@ -15651,7 +15651,7 @@ translate spanish p5Ic9_f199313e:
 translate spanish p5Ic9_06dc2933:
 
     # r "We would not leave our homestead behind, not even in our darkest hour!"
-    r "¡No dejaríamos atrás nuestra granja, ni siquiera en nuestra hora más oscura!"
+    r "¡No dejaríamos atrás nuestra antigua hacienda!, ni siquiera en nuestra hora más oscura!"
 
 # game/script.rpy:8557
 translate spanish p5Ic9_2250ce9c:
@@ -15777,13 +15777,13 @@ translate spanish p5Ic9_d3d21c1d:
 translate spanish p5Ic9_0d503849:
 
     # r "Well well, old man. You've been reading scripture? I didn't know they kept bibles in the type of hotels {i}you{/i} frequent."
-    r "Bueno bueno, viejo. ¿Has estado leyendo las Escrituras? No sabía que guardaban biblias en el {i}tipo de hoteles que frecuentas{/i}."
+    r "Bueno bueno, viejo. ¿Has estado leyendo las Escrituras? No sabía que guardaban biblias en el tipo de hoteles que {i}frecuentas{/i}."
 
 # game/script.rpy:8611
 translate spanish p5Ic9_424ba702:
 
     # l "A typical Kuyper — always eager to cast the first stone."
-    l "Un Kuyper típico, siempre ansioso por tirar la primera piedra."
+    l "Una Kuyper típica, siempre ansiosa por tirar la primera piedra."
 
 # game/script.rpy:8613
 translate spanish p5Ic9_ace73aa5:
@@ -16107,7 +16107,7 @@ translate spanish p5Ic9_cefb9550:
 translate spanish p5Ic9_2cc30a3f:
 
     # "And as we left, carrying Rika between the three of us, the lake gradually returned to its peaceful self."
-    "Y cuando nos fuimos, llevando a Rika entre los tres, el lago gradualmente volvió a su ser pacífico."
+    "Y cuando nos fuimos, llevando a Rika entre los tres, el lago gradualmente volvió a su pacífico ser."
 
 # game/script.rpy:8808
 translate spanish p5Ic10_869f893b:
@@ -16161,13 +16161,13 @@ translate spanish p5Ic10_8d202e25:
 translate spanish p5Ic10_205d4531:
 
     # n "Oh definitely. Increased it, even."
-    n "Definitivamente Lo aumentó, incluso."
+    n "Definitivamente. Lo aumentó, incluso."
 
 # game/script.rpy:8842
 translate spanish p5Ic10_3e977436:
 
     # n "But don't get any ideas, Abe. This envelope includes your back pay for the previous month."
-    n "Pero no te hagas ideas, Abe. Este sobre incluye su pago atrasado del mes anterior."
+    n "Pero no te hagas ideas, Abe. Este sobre incluye tu pago atrasado del mes anterior."
 
 # game/script.rpy:8843
 translate spanish p5Ic10_f39a27f5:
@@ -16179,7 +16179,7 @@ translate spanish p5Ic10_f39a27f5:
 translate spanish p5Ic10_54aba7fa:
 
     # n "And the good news is, your paper round will be shortened from now on. We have a new man on the delivery team."
-    n "Y la buena noticia es que su ronda de papel se acortará a partir de ahora. Tenemos un nuevo hombre en el equipo de entrega."
+    n "Y la buena noticia es que su ronda de entrega se acortará a partir de ahora. Tenemos un nuevo hombre en el equipo de entrega."
 
 # game/script.rpy:8848
 translate spanish p5Ic10_e0218c65:
@@ -16191,7 +16191,7 @@ translate spanish p5Ic10_e0218c65:
 translate spanish p5Ic10_f32f74ff:
 
     # n "Mei is happy to do the work. And she doesn't even require reimbursement."
-    n "Mei está feliz de hacer el trabajo. Y ella ni siquiera requiere reembolso."
+    n "Mei está feliz de hacer el trabajo. Y ella ni siquiera requiere pago."
 
 # game/script.rpy:8850
 translate spanish p5Ic10_53b24752:
@@ -16209,7 +16209,7 @@ translate spanish p5Ic10_5323c720:
 translate spanish p5Ic10_1473e723:
 
     # "Suddenly there was a knock at the door."
-    "De repente hubo un golpe en la puerta."
+    "De repente golpearon la puerta."
 
 # game/script.rpy:8862
 translate spanish p5Ic10_1af3b3be:
