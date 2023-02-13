@@ -10122,7 +10122,7 @@ translate spanish p4c2_09a5fe75:
 translate spanish p4c2_434d8a70:
 
     # r "Down in the dumps?"
-    r "¿Abajo en los vertederos?"
+    r "¿Andas depremido?"
 
 # game/script.rpy:5778
 translate spanish p4c2_1234afea:
@@ -10152,7 +10152,7 @@ translate spanish p4c2_9285d1e5:
 translate spanish p4c2_b26bdd9d:
 
     # r "Anyway, how are you doing?"
-    r "Ella sonrió."
+    r "De todos modos, ¿cómo estás?"
 
 # game/script.rpy:5790
 translate spanish p4c2_4471205f:
