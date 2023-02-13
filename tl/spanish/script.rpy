@@ -10122,7 +10122,7 @@ translate spanish p4c2_09a5fe75:
 translate spanish p4c2_434d8a70:
 
     # r "Down in the dumps?"
-    r "¿Andas depremido?"
+    r "¿Andas deprimido?"
 
 # game/script.rpy:5778
 translate spanish p4c2_1234afea:
@@ -10458,7 +10458,7 @@ translate spanish p4c2_64480c81:
 translate spanish p4c2_cabbbed1:
 
     # r "I promise, everything will be a lot clearer after tonight."
-    r "Lo prometo, todo será mucho más claro después de esta noche."
+    r "Lo prometo, todo sera mucho más claro después de esta noche."
 
 # game/script.rpy:5946
 translate spanish p4c2_35c80eeb:
@@ -10854,7 +10854,7 @@ translate spanish p4c4_9bc14aae:
 translate spanish p4c4_4c97f10b:
 
     # m "I didn't even want to show it to you at first, but decided I had to repay you—"
-    m "Ni siquiera quería mostrártelo al principio, pero decidí que tenía que pagartelo—"
+    m "Ni siquiera quería mostrártelo al principio, pero decidí que tenía que pagarte—"
 
 # game/script.rpy:6154
 translate spanish p4c4_7b854fdd:
@@ -10980,7 +10980,7 @@ translate spanish p4c4_11b615c7:
 translate spanish p4c4_3b3af87f:
 
     # m "{i}My{/i} castle hall."
-    m "El salón de {i}mi{/i} castillo."
+    m "{i}Mi{/i} salón del castillo."
 
 # game/script.rpy:6194
 translate spanish p4c4_2d9a6bc5:
