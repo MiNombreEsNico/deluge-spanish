@@ -16647,7 +16647,7 @@ translate spanish p5Rc2_e6ce8189:
 translate spanish p5Rc2_55891f69:
 
     # r "I've listened to my father's preaching for so long now — you learn to zone out after a while."
-    r "He escuchado la prédica de mi padre durante tanto tiempo: aprendes a desconectarte después de un tiempo."
+    r "He escuchado la prédica de mi padre durante tanto tiempo, aprendes a desconectarte después de un tiempo."
 
 # game/script.rpy:9097
 translate spanish p5Rc2_5d673fd2:
@@ -17175,7 +17175,7 @@ translate spanish p5Rc2_5e540b1d:
 translate spanish p5Rc3_4752d53c:
 
     # "I poured a new glass and followed her through the art-nouveau conservatory."
-    "Me serví una copa nueva y la seguí a través del conservatorio art nouveau."
+    "Me serví una copa nueva y la seguí a través del conservatorio art-nouveau."
 
 # game/script.rpy:9299
 translate spanish p5Rc3_e4692f58:
@@ -17361,7 +17361,7 @@ translate spanish p5Rc3_d5a0aafd:
 translate spanish p5Rc3_b0e05713:
 
     # r "{i}Blessed is the man that endures temptation, for when he is tried, he shall receive the crown of life.{/i}"
-    r "{i}Bienaventurado el varón que soporta la tentación, porque cuando sea puesto a prueba, recibirá la corona de la vida.{/i}"
+    r "{i}Bienaventurado el hombre que soporta la tentación, porque cuando sea puesto a prueba, recibirá la corona de la vida.{/i}"
 
 # game/script.rpy:9376
 translate spanish p5Rc3_3237b3b4:
@@ -18381,13 +18381,13 @@ translate spanish p5Rc5_6c8b66dc:
 translate spanish p5Rc5_9c5ef908:
 
     # r "{i}Thou shalt have no other gods {/i}before{i} Me{/i}!"
-    r "{i}¡No tendrás otros dioses {/i}delante {i}de MÍ!{/i}"
+    r "{i}¡No tendrás otros dioses {/i}por delante {i}de MÍ!{/i}"
 
 # game/script.rpy:9864
 translate spanish p5Rc5_12c227b7:
 
     # r "We remain first and foremost devoted to the LORD, consulting him for all metaphysical matters. For there is no {i}other{/i} god as powerful as He."
-    r "Permanecemos ante todo devotos del SEÑOR, consultándolo para todos los asuntos metafísicos. Porque no hay otro dios tan poderoso como Él."
+    r "Permanecemos ante todo devotos del SEÑOR, consultándolo para todos los asuntos metafísicos. Porque no hay {i}otro{/i} dios tan poderoso como Él."
 
 # game/script.rpy:9866
 translate spanish p5Rc5_3928260e:
@@ -18627,7 +18627,7 @@ translate spanish p5Rc7_267d98c1:
 translate spanish p5Rc7_027b95ba:
 
     # r "Let's take that useless, unpredictable water, and subject it to the arrogant, profane ways of man!"
-    r "¡Tomemos esa agua inútil e impredecible y sometámosla a las formas arrogantes y profanos del hombre!"
+    r "¡Tomemos esa agua inútil e impredecible y sometámosla a las formas arrogantes y profanas del hombre!"
 
 # game/script.rpy:10020
 translate spanish p5Rc7_54c47f93:
@@ -18699,7 +18699,7 @@ translate spanish p5Rc7_c151a8f4:
 translate spanish p5Rc7_bb03fcfe:
 
     # "I was so unprepared for this unexpected outpour of technical detail, that I remained unaware of the ominous implications it spelled."
-    "Estaba tan poco preparado para esta inesperada avalancha de detalles técnicos, que no me di cuenta de las siniestras implicaciones que implicaba."
+    "Estaba tan poco preparado para esta inesperada avalancha de detalles técnicos, que no me di cuenta de las siniestras implicaciones que indicaban."
 
 # game/script.rpy:10047
 translate spanish p5Rc7_6bd00d73:
@@ -18951,7 +18951,7 @@ translate spanish p5Rc9_d3c129c7:
 translate spanish p5Rc9_2d33b826:
 
     # "And the natural self confidence with which Rika spurned me to these deeds, made me feel even more attracted to her. "
-    "Y la confianza natural con la que Rika me rechazó a estos hechos, me hizo sentir aún más atraído por ella."
+    "Y la autoconfianza natural con la que Rika me rechazó a estos hechos, me hizo sentir aún más atraído por ella."
 
 # game/script.rpy:10204
 translate spanish p5Rc9_c9b19627:
@@ -19443,7 +19443,7 @@ translate spanish p5Rc10_bb8c33ff:
 translate spanish p5Rc10_3054ca4a:
 
     # n "Hah. Do you think there's a lock that {i}I{/i} can't open? It was child's play."
-    n "Ja. ¿Crees que hay una cerradura que no puedo abrir? Fue un juego de niños."
+    n "Ja. ¿Crees que hay una cerradura que {i}no{/i} puedo abrir? Fue un juego de niños."
 
 # game/script.rpy:10432
 translate spanish p5Rc10_7f7db8e3:
@@ -26657,7 +26657,7 @@ translate spanish rBad_9e98bab6:
 translate spanish rBad_dddb8fa4:
 
     # "She flinched when I approached her."
-    "Se hecho atrás cuando me acerqué a ella."
+    "Retrocedio cuando me acerqué a ella."
 
 # game/script.rpy:14070
 translate spanish rBad_9b3972be:
