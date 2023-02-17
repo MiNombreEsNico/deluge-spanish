@@ -11058,7 +11058,7 @@ translate spanish p4c4_6c6c6619:
 translate spanish p4c4_940cb4db:
 
     # m "Help me read these letters. I can see an S, an E—"
-    m "Ayúdame a leer estas cartas. Puedo ver una S, una E—"
+    m "Ayúdame a leer estas letras. Puedo ver una S, una E—"
 
 # game/script.rpy:6235
 translate spanish p4c4_7bc9f4c9:
@@ -11407,7 +11407,7 @@ translate spanish p4c7_58b80fd4:
 translate spanish p4c7_6ddda3e5:
 
     # n "It did — didn't it?"
-    n "Lo hiciste, ¿no?"
+    n "lo eran, ¿no?"
 
 # game/script.rpy:6487
 translate spanish p4c7_7fb2390c:
@@ -19793,7 +19793,7 @@ translate spanish p5Rc11_c9fc33a2:
 translate spanish p5Rc11_06dc2933:
 
     # r "We would not leave our homestead behind, not even in our darkest hour!"
-    r "¡No dejaríamos atrás nuestra granja, ni siquiera en nuestra hora más oscura!"
+    r "¡No dejaríamos atrás nuestra antigua hacienda, ni siquiera en nuestra hora más oscura!"
 
 # game/script.rpy:10642
 translate spanish p5Rc11_fd916999:
@@ -20039,13 +20039,13 @@ translate spanish p5Rc12_08a28ca6:
 translate spanish p5Rc12_e68e4a05:
 
     # "And even after the rains dried up, the waters remained upon the land for a further hundred and forty days, and many more days after that."
-    "E incluso después de que se secaron las lluvias, las aguas permanecieron sobre la tierra durante "
+    "E incluso después de que se secaron las lluvias, las aguas permanecieron sobre la tierra durante ciento cuarenta días más, y muchos días más después de eso."
 
 # game/script.rpy:10814
 translate spanish p5Rc12_fa5ec45c:
 
     # "And from the waters emerged abominations, more horrid than the world had ever known — for they came from a realm of unspeakable depth."
-    "ciento cuarenta días más, y muchos días más después de eso. Y de las aguas surgieron abominaciones, más horribles de lo que el mundo jamás había conocido, porque provenían de un reino de profundidad indescriptible."
+    "Y de las aguas surgieron abominaciones, más horribles de lo que el mundo jamás había conocido, porque provenían de un reino de profundidad indescriptible."
 
 # game/script.rpy:10816
 translate spanish p5Rc12_71933f27:
