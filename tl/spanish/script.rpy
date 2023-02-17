@@ -18951,7 +18951,7 @@ translate spanish p5Rc9_d3c129c7:
 translate spanish p5Rc9_2d33b826:
 
     # "And the natural self confidence with which Rika spurned me to these deeds, made me feel even more attracted to her. "
-    "Y la autoconfianza natural con la que Rika me rechazó a estos hechos, me hizo sentir aún más atraído por ella."
+    "Y la autoconfianza natural con la que Rika me espoleo a estos hechos, me hizo sentir aún más atraído por ella."
 
 # game/script.rpy:10204
 translate spanish p5Rc9_c9b19627:
@@ -20189,7 +20189,7 @@ translate spanish p5Rc13_4c39985a:
 translate spanish p5M1_f284e389:
 
     # "On Monday, when I returned home from school, I encountered an unlikely visitor waiting outside the house."
-    "El lunes, cuando regresé a casa de la escuela, me encontré con un visitante poco probable esperando afuera de la casa."
+    "El lunes, cuando regresé a casa de la escuela, me encontré con una visitante no esperada esperando afuera de la casa."
 
 # game/script.rpy:10964
 translate spanish p5M1_8ce230a6:
@@ -20243,7 +20243,7 @@ translate spanish p5M1_13bf7311:
 translate spanish p5M1_a2caf915:
 
     # a "Mei—?"
-    a "Mei—?"
+    a "¿Mei—?"
 
 # game/script.rpy:10984
 translate spanish p5M1_ca536d25:
@@ -20267,7 +20267,7 @@ translate spanish p5M1_861e9ff7:
 translate spanish p5M1_de4f7678:
 
     # a "B—behavior? What kind of behavior?"
-    a "C-comportamiento? ¿Qué tipo de comportamiento?"
+    a "¿C-comportamiento? ¿Qué tipo de comportamiento?"
 
 # game/script.rpy:10993
 translate spanish p5M1_630a807d:
@@ -20285,7 +20285,7 @@ translate spanish p5M1_bbf77d88:
 translate spanish p5M1_ba1b0d04:
 
     # r "She's always been an imaginative girl — but this is giving way to {i}delusion{/i}."
-    r "Siempre ha sido una chica imaginativa, pero esto está dando paso a un engaño."
+    r "Siempre ha sido una chica imaginativa, pero esto está dando paso a una alucinacion."
 
 # game/script.rpy:10999
 translate spanish p5M1_f7da6609:
@@ -20387,7 +20387,7 @@ translate spanish p5M1_ce275145:
 translate spanish p5M1_72048cfe:
 
     # r "In a sense, your interaction with her has served as a trial, to see how she would fare under new social relationships."
-    r "En cierto sentido, su interacción con ella ha servido como prueba para ver cómo le iría en las nuevas relaciones sociales.
+    r "En cierto sentido, tu interacción con ella ha servido como prueba para ver cómo le iría en las nuevas relaciones sociales.
 "
 
 # game/script.rpy:11026
@@ -20436,7 +20436,7 @@ translate spanish p5M1_5b0b54d3:
 translate spanish p5M1_1e9732bc:
 
     # r "She is — and she's made great progress."
-    r "Lo es, y ha progresado mucho."
+    r "Lo esta, y ha progresado mucho."
 
 # game/script.rpy:11042
 translate spanish p5M1_3d773c96:
@@ -20448,13 +20448,13 @@ translate spanish p5M1_3d773c96:
 translate spanish p5M1_3f5c667e:
 
     # r "The adult world preys of fragile minds. We need to protect and prepare Mei as well as we can."
-    r "El mundo adulto es presa de mentes frágiles. Necesitamos proteger y preparar a Mei lo mejor que podamos."
+    r "El mundo adulto hace presas a mentes frágiles. Necesitamos proteger y preparar a Mei lo mejor que podamos."
 
 # game/script.rpy:11045
 translate spanish p5M1_bb755faf:
 
     # r "Though I'm not sure if we can offer her the right help."
-    r "Aunque no estoy seguro de si podemos ofrecerle la ayuda adecuada."
+    r "Aunque no estoy segura de si podemos ofrecerle la ayuda adecuada."
 
 # game/script.rpy:11046
 translate spanish p5M1_f41901fa:
@@ -20490,7 +20490,7 @@ translate spanish p5M1_670db988:
 translate spanish p5M1_9e6af97f:
 
     # r "If you witness more unusual behavior, you must inform me in a timely manner."
-    r "Si observa un comportamiento más inusual, debe informarme de manera oportuna."
+    r "Si observa un comportamiento más inusual, debes informarme de manera oportuna."
 
 # game/script.rpy:11058
 translate spanish p5M1_02e6e668:
@@ -20526,7 +20526,7 @@ translate spanish p5M2_bf58fb28:
 translate spanish p5M2_70d7854a:
 
     # n "Mei—?"
-    n "Mei—?"
+    n "¿Mei—?"
 
 # game/script.rpy:11097
 translate spanish p5M2_77d392ab:
