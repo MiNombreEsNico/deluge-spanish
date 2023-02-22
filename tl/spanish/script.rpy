@@ -20622,7 +20622,7 @@ translate spanish p5M2_5d2b5b9b:
 translate spanish p5M2_e8e77918:
 
     # n "But why do you ask?"
-    n "Pero porque preguntas?"
+    n "¿Pero porque preguntas?"
 
 # game/script.rpy:11131
 translate spanish p5M2_179b6c47:
@@ -20742,7 +20742,7 @@ translate spanish p5M2_0922a005:
 translate spanish p5M3_b2acef51:
 
     # "Even though Mei's farm was just a short distance away, a sticky heat lingered in the evening air that made it an unpleasant journey."
-    "A pesar de que la granja de Mei estaba a poca distancia, un calor pegajoso permanecía en el aire de la tarde que hacía que el viaje fuera desagradable."
+    "A pesar de que la granja de Mei estaba a poca distancia, un calor humedo permanecía en el aire de la tarde que hacía que el viaje fuera desagradable."
 
 # game/script.rpy:11203
 translate spanish p5M3_1b8a762b:
@@ -20754,7 +20754,7 @@ translate spanish p5M3_1b8a762b:
 translate spanish p5M3_527d97ae:
 
     # m "I'm so glad you made it!"
-    m "¡Estoy tan contenta de que lo hayas logrado!"
+    m "¡Estoy tan contenta de que hayas venido!"
 
 # game/script.rpy:11210
 translate spanish p5M3_7aa2f280:
