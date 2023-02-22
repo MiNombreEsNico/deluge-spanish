@@ -4,115 +4,115 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new ""
+    new "Self-voicing disabled."
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new ""
+    new "Clipboard voicing enabled. "
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new ""
+    new "Self-voicing enabled. "
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new ""
+    new "bar"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new ""
+    new "selected"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new ""
+    new "viewport"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new ""
+    new "horizontal scroll"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new ""
+    new "vertical scroll"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new ""
+    new "activate"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new ""
+    new "deactivate"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
-    new ""
+    new "increase"
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
-    new ""
+    new "decrease"
 
     # renpy/common/00accessibility.rpy:138
     old "Font Override"
-    new ""
+    new "Font Override"
 
     # renpy/common/00accessibility.rpy:142
     old "Default"
-    new ""
+    new "Default"
 
     # renpy/common/00accessibility.rpy:146
     old "DejaVu Sans"
-    new ""
+    new "DejaVu Sans"
 
     # renpy/common/00accessibility.rpy:150
     old "Opendyslexic"
-    new ""
+    new "Opendyslexic"
 
     # renpy/common/00accessibility.rpy:156
     old "Text Size Scaling"
-    new ""
+    new "Text Size Scaling"
 
     # renpy/common/00accessibility.rpy:162
     old "Reset"
-    new ""
+    new "Reset"
 
     # renpy/common/00accessibility.rpy:168
     old "Line Spacing Scaling"
-    new ""
+    new "Line Spacing Scaling"
 
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
-    new ""
+    new "High Contrast Text"
 
     # renpy/common/00accessibility.rpy:182
     old "Enable"
-    new ""
+    new "Enable"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
-    new ""
+    new "Self-Voicing"
 
     # renpy/common/00accessibility.rpy:197
     old "Off"
-    new ""
+    new "Off"
 
     # renpy/common/00accessibility.rpy:201
     old "Text-to-speech"
-    new ""
+    new "Text-to-speech"
 
     # renpy/common/00accessibility.rpy:205
     old "Clipboard"
-    new ""
+    new "Clipboard"
 
     # renpy/common/00accessibility.rpy:209
     old "Debug"
-    new ""
+    new "Debug"
 
     # renpy/common/00accessibility.rpy:215
     old "Self-Voicing Volume Drop"
-    new ""
+    new "Self-Voicing Volume Drop"
 
     # renpy/common/00accessibility.rpy:224
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new ""
+    new "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
@@ -416,23 +416,23 @@ translate spanish strings:
 
     # renpy/common/00gui.rpy:435
     old "Are you sure?"
-    new ""
+    new "¿Estás seguro?"
 
     # renpy/common/00gui.rpy:436
     old "Are you sure you want to delete this save?"
-    new ""
+    new "¿Estas seguro de querer borrar este guardado?"
 
     # renpy/common/00gui.rpy:437
     old "Are you sure you want to overwrite your save?"
-    new ""
+    new "¿Estas seguro de querer reescribir este guardado?"
 
     # renpy/common/00gui.rpy:438
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new ""
+    new "La carga perderá el progreso no guardado.\n¿Estás seguro de que quieres hacer esto?"
 
     # renpy/common/00gui.rpy:439
     old "Are you sure you want to quit?"
-    new ""
+    new "¿Estás seguro de querer salir?"
 
     # renpy/common/00gui.rpy:440
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
