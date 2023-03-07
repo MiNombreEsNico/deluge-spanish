@@ -20490,7 +20490,7 @@ translate spanish p5M1_670db988:
 translate spanish p5M1_9e6af97f:
 
     # r "If you witness more unusual behavior, you must inform me in a timely manner."
-    r "Si observa un comportamiento más inusual, debes informarme de manera oportuna."
+    r "Si observas un comportamiento más inusual, debes informarme de manera oportuna."
 
 # game/script.rpy:11058
 translate spanish p5M1_02e6e668:
@@ -20790,13 +20790,13 @@ translate spanish p5M3_3e4c8e38:
 translate spanish p5M3_5d454a92:
 
     # m "My parents run it by themselves, and I help them as much as possible."
-    m "Mis padres lo manejan solos, y yo los ayudo tanto como sea posible."
+    m "Mis padres la manejan solos, y yo los ayudo tanto como sea posible."
 
 # game/script.rpy:11223
 translate spanish p5M3_0d709123:
 
     # m "That's a the cow shed over there."
-    m "Ese es el cobertizo de vacas de allí."
+    m "Eso de allí es el establo."
 
 # game/script.rpy:11224
 translate spanish p5M3_6324ab40:
@@ -20826,13 +20826,13 @@ translate spanish p5M3_6157a3f0:
 translate spanish p5M3_fcecef07:
 
     # m "Sadly they've all been transferred to a hospital for the time being, due to the recent avid flu outbreak."
-    m "Lamentablemente, todos han sido trasladados a un hospital por el momento, debido al reciente brote de gripe ávida."
+    m "Lamentablemente, todas han sido trasladados a un hospital por el momento, debido al reciente brote de gripe ávida."
 
 # game/script.rpy:11244
 translate spanish p5M3_866cad49:
 
     # m "I'll introduce you to them when they're back safely in their coop."
-    m "Te los presentaré cuando regresen a salvo a su gallinero."
+    m "Te las presentaré cuando regresen a salvo a su gallinero."
 
 # game/script.rpy:11246
 translate spanish p5M3_384eef00:
@@ -20928,13 +20928,13 @@ translate spanish p5M3_15a7fba5:
 translate spanish p5M3_cb8c03b6:
 
     # m "Have you ever had the same dream—"
-    m "¿Alguna vez has tenido el mismo sueño?"
+    m "¿Alguna vez has tenido el mismo sueño"
 
 # game/script.rpy:11292
 translate spanish p5M3_055d73b7:
 
     # m "—over and over again?"
-    m "-¿una y otra vez?"
+    m "-una y otra vez?"
 
 # game/script.rpy:11294
 translate spanish p5M3_2813e28f:
@@ -21060,7 +21060,7 @@ translate spanish p5M3_92e55764:
 translate spanish p5M3_bd45cff0:
 
     # m "Although I distrust the man, I bandage and feed him."
-    m "Aunque desconfío del hombre, lo vendo y lo alimento."
+    m "Aunque desconfío del hombre, lo vendo y alimento."
 
 # game/script.rpy:11367
 translate spanish p5M3_d575b0d2:
@@ -21222,7 +21222,7 @@ translate spanish p5M3_4d7a2d38:
 translate spanish p5M3_af0ed16c:
 
     # m "Never knowing."
-    m "Nunca sabiendo"
+    m "Nunca lo sabras"
 
 # game/script.rpy:11443
 translate spanish p5M3_585727f9:
@@ -21282,7 +21282,7 @@ translate spanish p5M3_c284d38f:
 translate spanish p5M3_e25e1645:
 
     # m "{i}Do you not recognize me—{/i}"
-    m "{i}¿No me reconoces?{/i}"
+    m "{i}¿No me reconoces{/i}"
 
 # game/script.rpy:11468
 translate spanish p5M3_7f3c6d62:
@@ -21300,7 +21300,7 @@ translate spanish p5M3_41c8c3d6:
 translate spanish p5M3_5ebf36fd:
 
     # m "—{i}my sister?{/i}"
-    m "{i}-¿mi hermana?{/i}"
+    m "{i}-hermana mia?{/i}"
 
 # game/script.rpy:11480
 translate spanish p5M3_366d00a0:
@@ -21348,7 +21348,7 @@ translate spanish p5M3_9df99251:
 translate spanish p5M3_cb5e61f5:
 
     # m "It really {i}is{/i} you."
-    m "Realmente {i}eres tú.{/i}"
+    m "Realmente {i}eres{/i} tú."
 
 # game/script.rpy:11501
 translate spanish p5M3_573a9015:
@@ -21360,7 +21360,7 @@ translate spanish p5M3_573a9015:
 translate spanish p5M3_ebe71626:
 
     # m "Please do not leave without me. I will follow you to the edge of night."
-    m "Por favor, no te vayas sin mí. Te seguiré hasta el borde de la noche."
+    m "Por favor, no te vayas sin mí. Te seguiré hasta el fin de la noche."
 
 # game/script.rpy:11513
 translate spanish p5M3_c9efe0ae:
@@ -21648,7 +21648,7 @@ translate spanish p5M4_bb1600ca:
 translate spanish p5M4_281a0ee2:
 
     # r "But for some the suffering is made {i}so{/i} much more unbearable—"
-    r "Pero para algunos el sufrimiento se hace mucho más insoportable—"
+    r "Pero para algunos el sufrimiento se hace {i}mucho{/i} más insoportable—"
 
 # game/script.rpy:11648
 translate spanish p5M4_472bb0ea:
@@ -21822,13 +21822,13 @@ translate spanish p5M4_83c64ccb:
 translate spanish p5M4_27eecd44:
 
     # r "She was the kindest child I ever knew — with such an {i}active{/i} imagination."
-    r "Era la niña más amable que he conocido, con una imaginación tan activa."
+    r "Era la niña más amable que he conocido, con una imaginación tan {i}activa{/i}."
 
 # game/script.rpy:11702
 translate spanish p5M4_9b4aa539:
 
     # r "But her speech remained baby-like. She never figured out the alphabet, or how to count."
-    r "Pero su discurso se mantuvo como el de un bebé. Nunca supo el alfabeto, o cómo contar."
+    r "Pero su habla se mantuvo como la de un bebé. Nunca supo el alfabeto, o cómo contar."
 
 # game/script.rpy:11703
 translate spanish p5M4_a0c43131:
@@ -21894,7 +21894,7 @@ translate spanish p5M4_b32f6fa2:
 translate spanish p5M4_a778b2a0:
 
     # r "And though I tried to protect her, I was only small."
-    r "Y aunque traté de protegerla, solo era pequeño."
+    r "Y aunque traté de protegerla, solo era pequeña."
 
 # game/script.rpy:11724
 translate spanish p5M4_3db2dd02:
@@ -21924,7 +21924,7 @@ translate spanish p5M4_b146d670:
 translate spanish p5M4_34b6ac4f:
 
     # r "Protect her innocent, kind-spirited nature."
-    r "Protege su naturaleza inocente y bondadosa."
+    r "Protegimos su naturaleza inocente y bondadosa."
 
 # game/script.rpy:11732
 translate spanish p5M4_bca23ca1:
@@ -21978,7 +21978,7 @@ translate spanish p5M4_8209a0ad:
 translate spanish p5M4_75f8609d:
 
     # r "We do."
-    r "Tenemos..."
+    r "Lo tenemos"
 
 # game/script.rpy:11748
 translate spanish p5M4_141ce34d:
@@ -22429,7 +22429,7 @@ translate spanish p5M5_df19acfa:
 translate spanish p5M5_814e5180:
 
     # n "I looked it up on the heritage website — and I'm afraid I stand somewhat corrected."
-    n "Lo busqué en el sitio web del patrimonio, y me temo que estaba equivocada."
+    n "Lo busqué en el sitio web del patrimonio, y me temo que era yo la equivocada."
 
 # game/script.rpy:11938
 translate spanish p5M5_1e5abb51:
@@ -22555,7 +22555,7 @@ translate spanish p5M6_3383aa37:
 translate spanish p5M6_512d3366:
 
     # m "Come on, let's go to my room."
-    m "Vamos, vamos a mi habitación."
+    m "Ven, vamos a mi habitación."
 
 # game/script.rpy:12025
 translate spanish p5M6_e4a3cadb:
@@ -22567,7 +22567,7 @@ translate spanish p5M6_e4a3cadb:
 translate spanish p5M6_e4673bf3:
 
     # m "My parents are growing old and forgetful. I have to help them with a lot of things."
-    m "Mis padres están envejeciendo y olvidadizos. Tengo que ayudarlos con muchas cosas."
+    m "Mis padres están envejecidos y olvidadizos. Tengo que ayudarlos con muchas cosas."
 
 # game/script.rpy:12032
 translate spanish p5M6_538d81b4:
@@ -22585,7 +22585,7 @@ translate spanish p5M6_32b06844:
 translate spanish p5M6_2ed18773:
 
     # m "If I'll live here by myself, to continue the farm—"
-    m "Si voy a vivir aquí solo, para continuar con la granja—"
+    m "Si voy a vivir aquí sola, para continuar con la granja—"
 
 # game/script.rpy:12038
 translate spanish p5M6_1bb85e68:
@@ -22663,7 +22663,7 @@ translate spanish p5M6_162243de:
 translate spanish p5M6_383a7ce3:
 
     # m "Rika—?"
-    m "Rika—?"
+    m "¿Rika—?"
 
 # game/script.rpy:12066
 translate spanish p5M6_a8c8b0ba:
@@ -22717,13 +22717,13 @@ translate spanish p5M6_90c74bbc:
 translate spanish p5M6_842f604a:
 
     # m "—I know they aren't really brought to a hospital."
-    m "—Sé que en realidad no los llevan a un hospital."
+    m "—Sé que en realidad no las llevan a un hospital."
 
 # game/script.rpy:12087
 translate spanish p5M6_460f1319:
 
     # m "They get killed, all of them, when a pandemic breaks out."
-    m "Los matan, todos ellos, cuando estalla una pandemia."
+    m "Las matan, todas ellas, cuando estalla una pandemia."
 
 # game/script.rpy:12088
 translate spanish p5M6_acfb76b4:
@@ -22837,7 +22837,7 @@ translate spanish p5M6_6994b533:
 translate spanish p5M6_85a7d0f3:
 
     # m "I don't want to go—"
-    m "No quiero ir-"
+    m "No quiero irme-"
 
 # game/script.rpy:12129
 translate spanish p5M6_65d20c65:
@@ -23119,7 +23119,7 @@ translate spanish p5M6_3db97a8c:
 translate spanish p5M6_49166734:
 
     # m "I'm sorry — I'm not myself at the moment."
-    m "Lo siento, no soy yo mismo en este momento."
+    m "Lo siento, no soy yo misma en este momento."
 
 # game/script.rpy:12235
 translate spanish p5M6_fa0fde38:
@@ -23221,8 +23221,7 @@ translate spanish p5M7_98ef4c09:
 translate spanish p5M7_4ea02d26:
 
     # "But the woodlands surrounding Abbotsford were wild and expansive enough to disappear into—"
-    "Pero los bosques que rodeaban Abbotsford eran lo suficientemente salvajes y extensos como para desaparecer en...
-"
+    "Pero los bosques que rodeaban Abbotsford eran lo suficientemente salvajes y extensos como para desaparecer en ellos"
 
 # game/script.rpy:12327
 translate spanish p5M7_a3769bcb:
@@ -23246,7 +23245,7 @@ translate spanish p5M7_55795dc5:
 translate spanish p5M7_0ef194e2:
 
     # m "Where do we go—?"
-    m "¿A-A donde vamos?"
+    m "¿A-a donde vamos?"
 
 # game/script.rpy:12334
 translate spanish p5M7_32511c7f:
@@ -23288,7 +23287,7 @@ translate spanish p5M7_63c995eb:
 translate spanish p5M7_c1f0307b:
 
     # a "Are you sure it's safe?"
-    a "¿Estás seguro de que es seguro?"
+    a "¿Estás segura de que es seguro?"
 
 # game/script.rpy:12348
 translate spanish p5M7_42ec4eec:
@@ -23342,7 +23341,7 @@ translate spanish p5M7_876faffb:
 translate spanish p5M7_6a8a94ed:
 
     # "Aggressive shouting, footsteps. I found myself wide awake, tugging at Mei's sluggish body—"
-    "Gritos agresivos, pasos. Me encontré completamente despierto, tirando del cuerpo perezoso de Mei—"
+    "Gritos agresivos, pasos. Me encontré completamente despierto, tirando del inactivo cuerpo de Mei—"
 
 # game/script.rpy:12392
 translate spanish p5M7_0b768388:
@@ -23534,7 +23533,7 @@ translate spanish p5M7_21dc0039:
 translate spanish p5M7_35813ecd:
 
     # "The dog turned its head."
-    "El perro volvió la cabeza."
+    "El perro volteo la cabeza."
 
 # game/script.rpy:12465
 translate spanish p5M7_98cf6b15:
@@ -23570,7 +23569,7 @@ translate spanish p5M8_2b366b16:
 translate spanish p5M8_de31a930:
 
     # "I felt tired to the point that I cursed myself for ever embarking on this pointless journey."
-    "Me sentí tan cansada que me maldije por haberme embarcado en este viaje sin sentido."
+    "Me sentí tan cansado que me maldije por haberme embarcado en este viaje sin sentido."
 
 # game/script.rpy:12507
 translate spanish p5M8_5465929f:
@@ -23674,7 +23673,7 @@ translate spanish p5M8_7d23adf9:
 translate spanish p5M8_7e7b0b64:
 
     # extend " a large\nappendage lashed out from the shallow waters!"
-    extend "un gran\n¡Un apéndice salió disparado de las aguas poco profundas! "
+    extend "¡un gran\napéndice salió disparado de las aguas poco profundas! "
 
 # game/script.rpy:12561
 translate spanish p5M8_9085774c:
@@ -23723,13 +23722,13 @@ translate spanish p5M8_e8c45d0c:
 translate spanish p5M8_652c116e:
 
     # m "Long enough for Sigurd,{nw}"
-    m "El tiempo suficiente para Sigurd,{nw}"
+    m "El tiempo suficiente para que Sigurd, {nw}"
 
 # game/script.rpy:12575
 translate spanish p5M8_ee133344:
 
     # extend " to thrust his spear into the monster's gaping maw, impaling it in the mud."
-    extend "para clavar su lanza en las fauces abiertas del monstruo, empalándolo en el barro."
+    extend "clavara su lanza en las fauces abiertas del monstruo, empalándolo en el barro."
 
 # game/script.rpy:12579
 translate spanish p5M8_cafde6f8:
@@ -23821,7 +23820,7 @@ translate spanish p5M8_fa043232:
 translate spanish p5M8_ac90dbed:
 
     # m "Beifre, the great wolf, our mother. Always watching over us—"
-    m "Beifre, el gran lobo, nuestra madre. Siempre cuidándonos—"
+    m "Beifre, la gran loba, nuestra madre. Siempre cuidándonos—"
 
 # game/script.rpy:12635
 translate spanish p5M9_8cf5d04c:
@@ -23833,7 +23832,7 @@ translate spanish p5M9_8cf5d04c:
 translate spanish p5M9_5c3774a5:
 
     # "And urged forward instinctively by our fatigue, we made our way to the S-dolmen, which stood nearby."
-    "E impulsados instintivamente por nuestra fatiga, nos dirigimos al S-dolmen, que estaba cerca."
+    "E impulsados instintivamente por nuestra fatiga, nos dirigimos al dolmen S, que estaba cerca."
 
 # game/script.rpy:12650
 translate spanish p5M9_47d37e60:
@@ -23858,7 +23857,7 @@ translate spanish p5M9_224bd702:
 translate spanish p5M9_94f89b40:
 
     # m "A gravemound, indeed—"
-    m "Un montículo, de hecho—"
+    m "Un tumulo, en efecto—"
 
 # game/script.rpy:12659
 translate spanish p5M9_9cf1b79f:
@@ -23918,7 +23917,7 @@ translate spanish p5M9_e8123c2c:
 translate spanish p5M9_daac125d:
 
     # extend " I dialed her number immediately."
-    extend "Marqué su número inmediatamente."
+    extend " Marqué su número inmediatamente."
 
 # game/script.rpy:12703
 translate spanish p5M9_347a5e04:
@@ -24021,7 +24020,7 @@ translate spanish p5M9_3d65ac5c:
 translate spanish p5M9_79d971e5:
 
     # n "There, there, Phyrrus. I brought you some sausages. Please be quiet."
-    n "Allí, allí, Phyrrus. Te traje unas salchichas. Por favor quédate quieto."
+    n "Aqui, aqui, Phyrrus. Te traje unas salchichas. Por favor quédate quieto."
 
 # game/script.rpy:12749
 translate spanish p5M9_ae1b1c92:
@@ -24388,7 +24387,7 @@ translate spanish p5M10_55920b6a:
 translate spanish p5M10_7b58a4a3:
 
     # n "Come on, let's take a look at this together."
-    n "Vamos, echemos un vistazo a esto juntos."
+    n "Vamos, echemos un vistazo a esto juntas."
 
 # game/script.rpy:12915
 translate spanish p5M10_5fad9f41:
@@ -24450,7 +24449,7 @@ translate spanish p5M10_220a39a4:
 translate spanish p5M10_eccf8537:
 
     # n "Slow but steady—"
-    n "Lento pero constante—"
+    n "Lenta pero constante—"
 
 # game/script.rpy:12952
 translate spanish p5M10_d8420182:
@@ -24635,7 +24634,7 @@ translate spanish p5M10_2e8db2a7:
 translate spanish p5M10_d587c424:
 
     # n "Which means that, once they find her, the Lazarus foundation will ship Mei off to Germany, never to be heard from again—"
-    n "Lo que significa que, una vez que la encuentren, la fundación Lazarus enviará a Mei a Alemania, para que nunca más se sepa de ella.
+    n "Lo que significa que, una vez que la encuentren, la fundación Lazaro enviará a Mei a Alemania, para que nunca más se sepa de ella.
  "
 
 # game/script.rpy:13011
