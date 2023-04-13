@@ -24785,14 +24785,14 @@ translate spanish p5M11_48a07e47:
 translate spanish p5M11_98e406cd:
 
     # "And after breakfast Mei returned to her geology book, in which she progressed at an accelerating speed—"
-    "Y después del desayuno, Mei volvió a su libro de geología, en el que avanzaba a una velocidad acelerada:
+    "Y después del desayuno, Mei volvió a su libro de geología, en el que avanzaba a una velocidad acelerada
 "
 
 # game/script.rpy:13099
 translate spanish p5M11_c414d39d:
 
     # "—while I just basked in the midday sun, paging through the increasing list of missed calls on my phone — some which were from Rika, some from school, but none, unsurprisingly, from my father."
-    "—mientras yo simplemente tomaba el sol del mediodía, hojeando la creciente lista de llamadas perdidas en mi teléfono—algunas de las cuales eran de Rika, algunas de la escuela, pero ninguna, como era de esperar, de mi padre.
+    "—mientras que yo simplemente tomaba el sol del mediodía, hojeando la creciente lista de llamadas perdidas en mi teléfono, algunas de las cuales eran de Rika, algunas de la escuela, pero ninguna, como era de esperar, de mi padre.
 "
 
 # game/script.rpy:13103
@@ -24975,7 +24975,7 @@ translate spanish p5M11_a255d1ab:
 translate spanish p5M11_02a7404d:
 
     # m "Many times I was so slow that we moved at a crawl—"
-    m "Muchas veces fui tan lento que nos movíamos a paso de tortuga—"
+    m "Muchas veces fui tan lenta que nos movíamos a paso de tortuga—"
 
 # game/script.rpy:13217
 translate spanish p5M11_1acf9653:
@@ -25017,7 +25017,7 @@ translate spanish p5M11_c14ef747:
 translate spanish p5M11_f1fe0ba8:
 
     # m "Chasing away foes, bringing us small prey."
-    m "Ahuyentar a los enemigos, traernos pequeñas presas."
+    m "Ahuyentaba a los enemigos, traia pequeñas presas."
 
 # game/script.rpy:13226
 translate spanish p5M11_0eaf9d80:
@@ -25078,7 +25078,7 @@ translate spanish p5M11_a87264c1:
 translate spanish p5M11_1ad5db2d:
 
     # m "Leaving no soul alive, no hearthstone unshattered—"
-    m "Sin dejar un alma viva, ninguna piedra del hogar intacta—"
+    m "Sin dejar un alma viva, sin dejar piedra del hogar intacta—"
 
 # game/script.rpy:13249
 translate spanish p5M11_03ba9d7c:
@@ -25108,7 +25108,7 @@ translate spanish p5M11_d2b95f9e:
 translate spanish p5M11_382c287b:
 
     # m "And while we sheltered, paralyzed by listlessness — a spring broke through."
-    m "Y mientras nos cobijábamos, paralizados por la apatía, se abrió un manantial."
+    m "Y mientras nos cobijábamos, paralizados por la languidez, la primavera se abrió paso."
 
 # game/script.rpy:13267
 translate spanish p5M11_d93aadb3:
@@ -25162,7 +25162,7 @@ translate spanish p5M11_d7bdc46e:
 translate spanish p5M11_55ba1975:
 
     # m "The presence of the all-mother ran strong in our bloodline."
-    m "La presencia de la madre de todos corrió fuerte en nuestra línea de sangre."
+    m "La presencia de la madre de todos corrió marca en nuestra línea de sangre."
 
 # game/script.rpy:13283
 translate spanish p5M11_ddc4e178:
@@ -25174,7 +25174,7 @@ translate spanish p5M11_ddc4e178:
 translate spanish p5M11_c06a48b3:
 
     # m "But with great joy came inconsolable grief—"
-    m "Pero con gran alegría vino un dolor inconsolable:"
+    m "Pero con la gran alegría vino un dolor inconsolable:"
 
 # game/script.rpy:13290
 translate spanish p5M11_426c1e77:
@@ -25186,7 +25186,7 @@ translate spanish p5M11_426c1e77:
 translate spanish p5M11_6cfa10f6:
 
     # m "The journey, the exposure to the cold, the grueling delivery — they left me wholly depleted."
-    m "El viaje, la exposición al frío, el parto agotador, me dejaron completamente agotado."
+    m "El viaje, la exposición al frío, el parto agotador, me dejaron completamente agotada."
 
 # game/script.rpy:13292
 translate spanish p5M11_71ef6ea4:
@@ -25314,7 +25314,7 @@ translate spanish p5M12_6a6e8d25:
 translate spanish p5M12_8f57d526:
 
     # r "Come now, Abraham. We knew you had your eyes set on miss Wahlsing all along. "
-    r "Vamos, Abrahán. Sabíamos que tenías los ojos puestos en la señorita Wahlsing todo el tiempo."
+    r "Vamos, Abrahám. Sabíamos que tenías los ojos puestos en la señorita Wahlsing todo el tiempo."
 
 # game/script.rpy:13370
 translate spanish p5M12_92d80d0c:
@@ -25332,7 +25332,7 @@ translate spanish p5M12_67de3f67:
 translate spanish p5M12_500cceef:
 
     # r "The fugitives have been located. At the same place where you found the sleeping bags."
-    r "Los fugitivos han sido localizados. En el mismo lugar donde encontraste los sacos de dormir."
+    r "Los fugitivos han sido localizados. En el mismo lugar donde encontraron los sacos de dormir."
 
 # game/script.rpy:13374
 translate spanish p5M12_f959dc23:
@@ -25368,7 +25368,7 @@ translate spanish p5M12_dc642ab6:
 translate spanish p5M12_099dd7d7:
 
     # r "They really don't make them like they used to—"
-    r "Realmente no los hacen como antes—Realmente no los hacen como antes—"
+    r "Realmente no las hacen como antes—"
 
 # game/script.rpy:13385
 translate spanish p5M12_cf36e921:
@@ -25410,13 +25410,13 @@ translate spanish p5M12_b38fd750:
 translate spanish p5M12_951184eb:
 
     # r "How {i}dare{/i} you run away from us!"
-    r "¡Cómo {i}te atreves{/i} a huir de nosotros!"
+    r "¡Cómo te {i}atreves{/i} a huir de nosotros!"
 
 # game/script.rpy:13399
 translate spanish p5M12_267c18f1:
 
     # "Mei whimpered, overwhelmed by the spontaneous outburst of rage her one-time friend had unleashed on her."
-    "Mei gimió, abrumada por el estallido de ira espontáneo que su antiguo amigo había desatado sobre ella."
+    "Mei gimió, abrumada por el estallido de ira espontáneo que su antigua amiga había desatado sobre ella."
 
 # game/script.rpy:13403
 translate spanish p5M12_c1329c53:
@@ -25464,7 +25464,7 @@ translate spanish p5M12_6e585f3a:
 translate spanish p5M12_6f9a3529:
 
     # a "You taught her nothing! Not even how to read and write!"
-    a "¡No le enseñaste nada! ¡Ni siquiera saber leer y escribir!"
+    a "¡No le enseñaron nada! ¡Ni siquiera saber leer y escribir!"
 
 # game/script.rpy:13415
 translate spanish p5M12_c91f8401:
@@ -25574,13 +25574,13 @@ translate spanish p5M12_f06b6c5d:
 translate spanish p5M12_07b4c580:
 
     # r "For us it was heartbreaking. To see a young, innocent child, be consumed by these powerful demons."
-    r "Para nosotros fue desgarrador. Ver a un niño pequeño e inocente ser consumido por estos poderosos demonios."
+    r "Para nosotros fue desgarrador. Ver a una niña pequeña e inocente ser consumida por estos poderosos demonios."
 
 # game/script.rpy:13457
 translate spanish p5M12_933d85ed:
 
     # r "The things her biological parents must have {i}done{/i} to her — to create such a horror. Truly bloodcurdling."
-    r "Las cosas que sus padres biológicos deben haberle hecho para crear tal horror. Verdaderamente espeluznante."
+    r "Las cosas que sus padres biológicos deben haberle {i}hecho{/i} para crear tal horror. Verdaderamente espeluznante."
 
 # game/script.rpy:13460
 translate spanish p5M12_f595678a:
@@ -25786,7 +25786,7 @@ translate spanish p5M12_d980d625:
 translate spanish p5M12_2e5b83e4:
 
     # "At that moment I began to wonder, if maybe Rika {i}was{/i} right, if maybe the overpowering mixture of excitement and emotion had awoken a certain attribute in the girl—"
-    "En ese momento comencé a preguntarme, si tal vez Rika tenía razón, si tal vez la abrumadora mezcla de excitación y emoción había despertado cierto atributo en la chica—"
+    "En ese momento comencé a preguntarme, si tal vez Rika {i}tenía{/i} razón, si tal vez la abrumadora mezcla de excitación y emoción había despertado cierto atributo en la chica—"
 
 # game/script.rpy:13530
 translate spanish p5M12_53f0232d:
@@ -25810,7 +25810,7 @@ translate spanish p5M12_e843c8db:
 translate spanish p5M12_e143840b:
 
     # m "I feel heavy."
-    m "e siento pesada"
+    m "me siento pesada"
 
 # game/script.rpy:13544
 translate spanish p5M12_52725f80:
@@ -26096,7 +26096,7 @@ translate spanish p5M12_8d7dc89e:
 translate spanish p5M12_139bbaba:
 
     # "The last of our tribe to be entombed therein."
-    "El último de nuestra tribu en ser sepultado allí."
+    "La última de nuestra tribu en ser sepultada allí."
 
 # game/script.rpy:13680
 translate spanish p5M12_e55710db:
@@ -26199,7 +26199,7 @@ translate spanish p5M14_b4678859:
 translate spanish p5M14_b8da4175:
 
     # n "From now on, Mei will be writing our weekly {i}Rock Solid Advice{/i} section, in which she answers geology related questions."
-    n "A partir de ahora, Mei escribirá nuestra sección semanal de consejos sólidos como roca, en la que responde preguntas relacionadas con la geología."
+    n "A partir de ahora, Mei escribirá nuestra sección semanal de {i}Consejos Sólidos como Roca{/i}, en la que responde preguntas relacionadas con la geología."
 
 # game/script.rpy:13773
 translate spanish p5M14_6caff274:
@@ -26217,7 +26217,7 @@ translate spanish p5M14_6200158c:
 translate spanish p5M14_1cc38f3c:
 
     # m "I have! I need to take remedial classes until the end of the year, but after that I can enter tenth grade."
-    m "¡Tengo! Necesito tomar clases de nivelación hasta fin de año, pero después puedo ingresar a décimo grado."
+    m "¡Pude! Necesito tomar clases de nivelación hasta fin de año, pero después puedo ingresar a décimo grado."
 
 # game/script.rpy:13783
 translate spanish p5M14_fa4596d5:
@@ -26254,7 +26254,7 @@ translate spanish p5M14_5333b64d:
 translate spanish p5M14_5b3efeda:
 
     # k "I looked into the financial administration of the Lazarus Foundation, and found out they've been misappropriating community funds ever since their inception."
-    k "Investigué la administración financiera de la Fundación Lázaro y descubrí que han estado malversando fondos comunitarios desde su creación."
+    k "Investigué la administración financiera de la Fundación Lázarus y descubrí que han estado malversando fondos comunitarios desde su creación."
 
 # game/script.rpy:13798
 translate spanish p5M14_c2696788:
