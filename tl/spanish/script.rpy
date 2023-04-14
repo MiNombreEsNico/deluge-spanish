@@ -4467,7 +4467,7 @@ translate spanish p2c5_1a0ee6cb:
 translate spanish p2c5_9165c973:
 
     # n "{i}In conclusion I therefore recommend that no punitive or expulsory action is taken against the reverend Kuyper or his congregation.{/i}"
-    n "{i}En conclusión, por lo tanto, recomiendo que no se tomen medidas punitivas o de expulsión contra el reverendo Kuyper o su congregación.{/i}"
+    n "{i}En conclusión, por tanto, recomiendo que no se tomen medidas punitivas o de expulsión contra el reverendo Kuyper o su congregación.{/i}"
 
 # game/script.rpy:2726
 translate spanish p2c5_bc5c49a2:
@@ -6641,7 +6641,7 @@ translate spanish p3c3_9c667ce5:
 translate spanish p3c3_ad793bdb:
 
     # r "Don't tell me you've forgotten? "
-    r "No me digas que lo has olvidado..."
+    r "¿No me diras que lo has olvidado?"
 
 # game/script.rpy:3960
 translate spanish p3c3_522c4f77:
@@ -14943,7 +14943,7 @@ translate spanish p5Ic7_85167ddc:
 translate spanish p5Ic7_0efb4eeb:
 
     # n "And it's not just a societal transformation, it goes further — it changes the people {i}themselves{/i}."
-    n "Y no es solo una transformación social, va más allá: {i}cambia a las personas mismas{/i}."
+    n "Y no es solo una transformación social, va más allá: cambia a las personas {i}mismas{/i}."
 
 # game/script.rpy:8238
 translate spanish p5Ic7_bb561de2:
@@ -14973,7 +14973,7 @@ translate spanish p5Ic7_a356740a:
 translate spanish p5Ic7_c9f424a2:
 
     # n "Places where life isn't governed by rosters and indicators and emancipated reason — but where customs prevail that are fundamentally {i}anti-modern{/i} in nature."
-    n "Lugares donde la vida no se rige por listas e indicadores y la razón emancipada, sino donde prevalecen costumbres de naturaleza fundamentalmente {i}antimodernas,{/i}"
+    n "Lugares donde la vida no se rige por listas e indicadores y la razón emancipada, sino donde prevalecen costumbres de naturaleza fundamentalmente {i}antimodernas{/i},"
 
 # game/script.rpy:8245
 translate spanish p5Ic7_fc6b6d1d:
@@ -15021,7 +15021,7 @@ translate spanish p5Ic7_acd9415c:
 translate spanish p5Ic7_291bc184:
 
     # n "When that eventually happens — there {i}will{/i} be a dark age upon us. Darker and more brutal than any precedent middle-age."
-    n "Cuando eso finalmente suceda, habrá una edad oscura sobre nosotros. Más oscura y brutal que cualquier precedente de mediana edad."
+    n "Cuando eso finalmente suceda, {i}habrá{/i} una edad oscura sobre nosotros. Más oscura y brutal que cualquier precedente de mediana edad."
 
 # game/script.rpy:8259
 translate spanish p5Ic7_6270148f:
@@ -15411,7 +15411,7 @@ translate spanish p5Ic8_b6c2fcbf:
 translate spanish p5Ic8_5d2d44bf:
 
     # l "You're a much more worldly man than he is. You understand, that no matter how good your intentions are, it's the {i}consequences{/i} that count, in the end."
-    l "Eres un hombre mucho más mundano que él. Entiendes que no importa cuán buenas sean tus intenciones, al final son las consecuencias las que cuentan."
+    l "Eres un hombre mucho más mundano que él. Entiendes que no importa cuán buenas sean tus intenciones, al final son las {i}consecuencias{/i} las que cuentan."
 
 # game/script.rpy:8405
 translate spanish p5Ic8_8bbdc67e:
@@ -16053,7 +16053,7 @@ translate spanish p5Ic9_5a4ddc76:
 translate spanish p5Ic9_3fca03ee:
 
     # n "Can you believe it, Rika? That dog must have swam over twenty miles, just in order to {i}bite{/i} you!"
-    n "¿Puedes creerlo, Rika? ¡Ese perro debe haber nadado más de veinte millas, {i}solo para morderte{/i}!"
+    n "¿Puedes creerlo, Rika? ¡Ese perro debe haber nadado más de veinte millas, solo para {i}morderte{/i}!"
 
 # game/script.rpy:8751
 translate spanish p5Ic9_a6135844:
@@ -16653,7 +16653,7 @@ translate spanish p5Rc2_55891f69:
 translate spanish p5Rc2_5d673fd2:
 
     # r "I know it's embarrassing for me to say — but dad's sermons have a tendency to go {i}on{/i} and {i}on{/i}."
-    r "Sé que es vergonzoso para mí decirlo, pero los sermones de papá tienden a {i}seguir y seguir{/i}."
+    r "Sé que es vergonzoso para mí decirlo, pero los sermones de papá tienden a {i}seguir{/i} y {i}seguir{/i}."
 
 # game/script.rpy:9098
 translate spanish p5Rc2_821c78b2:
@@ -16851,7 +16851,7 @@ translate spanish p5Rc2_349d5147:
 translate spanish p5Rc2_22ed77de:
 
     # r "A great vintage. There's nothing sour about {i}these{/i} grapes."
-    r "Una gran vino añejado. No hay nada amargo en estas uvas."
+    r "Una gran vino añejado. No hay nada amargo en {i}estas{/i} uvas."
 
 # game/script.rpy:9160
 translate spanish p5Rc2_6c403efc:
@@ -18363,7 +18363,7 @@ translate spanish p5Rc5_b6b6e55c:
 translate spanish p5Rc5_a98e2aca:
 
     # r "Oh how {i}dare{/i} you suggest such a thing?! We are good Christians, you know that. We do as the Bible says—"
-    r "Oh, ¡¿{i}cómo te atreves{/i} a sugerir tal cosa?! Somos buenos cristianos, lo sabes. Hacemos lo que dice la Biblia:"
+    r "Oh, ¡¿cómo te {i}atreves{/i} a sugerir tal cosa?! Somos buenos cristianos, lo sabes. Hacemos lo que dice la Biblia:"
 
 # game/script.rpy:9860
 translate spanish p5Rc5_95d88220:
@@ -18381,7 +18381,7 @@ translate spanish p5Rc5_6c8b66dc:
 translate spanish p5Rc5_9c5ef908:
 
     # r "{i}Thou shalt have no other gods {/i}before{i} Me{/i}!"
-    r "{i}¡No tendrás otros dioses {/i}por delante {i}de MÍ!{/i}"
+    r "¡{i}No tendrás otros dioses {/i}por delante de{i} Mi{/i}!"
 
 # game/script.rpy:9864
 translate spanish p5Rc5_12c227b7:
@@ -19287,7 +19287,7 @@ translate spanish p5Rc9_35065fa5:
 translate spanish p5Rc9_994d2f91:
 
     # r "It wasn't until 1856 — when that {i}inquisitor{/i} came by — that there came a pushback from the central church."
-    r "No fue hasta 1856, cuando apareció ese inquisidor, que hubo un rechazo de la iglesia central."
+    r "No fue hasta 1856, cuando apareció ese {i}inquisidor{/i}, que hubo un rechazo de la iglesia central."
 
 # game/script.rpy:10331
 translate spanish p5Rc9_8eacc0d2:
@@ -19443,7 +19443,7 @@ translate spanish p5Rc10_bb8c33ff:
 translate spanish p5Rc10_3054ca4a:
 
     # n "Hah. Do you think there's a lock that {i}I{/i} can't open? It was child's play."
-    n "Ja. ¿Crees que hay una cerradura que {i}no{/i} puedo abrir? Fue un juego de niños."
+    n "Ja. ¿Crees que hay una cerradura que {i}yo{/i} no pueda abrir? Fue un juego de niños."
 
 # game/script.rpy:10432
 translate spanish p5Rc10_7f7db8e3:
@@ -20081,7 +20081,7 @@ translate spanish p5Rc13_ec25f59a:
 translate spanish p5Rc13_28c33f42:
 
     # r "Welcome to the second {i}postdiluvian{/i} staff meeting of the Restored Sunday Abbot."
-    r "Bienvenidos a la segunda reunión de personal posdiluviano del Restaurado Sunday Abbot."
+    r "Bienvenidos a la segunda reunión de personal {i}posdiluviano{/i} del Restaurado Sunday Abbot."
 
 # game/script.rpy:10858
 translate spanish p5Rc13_e13d95ad:
@@ -20285,7 +20285,7 @@ translate spanish p5M1_bbf77d88:
 translate spanish p5M1_ba1b0d04:
 
     # r "She's always been an imaginative girl — but this is giving way to {i}delusion{/i}."
-    r "Siempre ha sido una chica imaginativa, pero esto está dando paso a una alucinacion."
+    r "Siempre ha sido una chica imaginativa, pero esto está dando paso a una {i}alucinacion{/i}."
 
 # game/script.rpy:10999
 translate spanish p5M1_f7da6609:
@@ -21102,7 +21102,7 @@ translate spanish p5M3_0c74aa41:
 translate spanish p5M3_a0305ab9:
 
     # m "Tells me {i}woe is him{/i}. That I can refer to him that way."
-    m "Me dice {i}yo soy él{/i}. Que puedo referirme a él de esa manera."
+    m "Me dice {i}el adolorido{/i}. Que puedo referirme a él de esa manera."
 
 # game/script.rpy:11388
 translate spanish p5M3_1dbda570:
@@ -21186,7 +21186,7 @@ translate spanish p5M3_a3818cae:
 translate spanish p5M3_9f4dce47:
 
     # m "{i}Please tell me,{/i} I cry. {i}I need to know.{/i}"
-    m "{i}Por favor dime{/i}, lloro. {i}Necesito saber.{/i}"
+    m "{i}Por favor dime,{/i} lloro. {i}Necesito saber.{/i}"
 
 # game/script.rpy:11431
 translate spanish p5M3_4d02f9de:
@@ -21282,7 +21282,7 @@ translate spanish p5M3_c284d38f:
 translate spanish p5M3_e25e1645:
 
     # m "{i}Do you not recognize me—{/i}"
-    m "{i}¿No me reconoces{/i}"
+    m "{i}¿No me reconoces?{/i}"
 
 # game/script.rpy:11468
 translate spanish p5M3_7f3c6d62:
@@ -21300,7 +21300,7 @@ translate spanish p5M3_41c8c3d6:
 translate spanish p5M3_5ebf36fd:
 
     # m "—{i}my sister?{/i}"
-    m "{i}-hermana mia?{/i}"
+    m "{i}¿-hermana mia?{/i}"
 
 # game/script.rpy:11480
 translate spanish p5M3_366d00a0:
@@ -24818,7 +24818,7 @@ translate spanish p5M11_eca8b884:
 translate spanish p5M11_d4e3376f:
 
     # m "This is called {i}glacial str—striation{/i}."
-    m "Esto se llama estrías glaciales."
+    m "Esto se llama {i}estr—estrías glaciales{/i}."
 
 # game/script.rpy:13115
 translate spanish p5M11_6ef7d54f:
@@ -25102,7 +25102,7 @@ translate spanish p5M11_3a6f493d:
 translate spanish p5M11_d2b95f9e:
 
     # m "Just like {i}we{/i} do now—"
-    m "Justo como {i}lo hacemos{/i} ahora—"
+    m "Justo como lo {i}hacemos{/i} ahora—"
 
 # game/script.rpy:13266
 translate spanish p5M11_382c287b:
@@ -27238,7 +27238,7 @@ translate spanish mBad_e82a28c5:
 translate spanish mBad_21e877db:
 
     # "—it dawned on me that there is never truly such a thing as a wrong decision."
-    "—me di cuenta de que realmente nunca existe una decisión equivocada."
+    "—me di cuenta de que realmente nunca existe tal cosa como una decisión equivocada."
 
 # game/script.rpy:14323
 translate spanish mBad_ce461f19:
@@ -27454,7 +27454,7 @@ translate spanish strings:
 
     # game/script.rpy:2734
     old "Sounds pretty tame if they got in trouble for this."
-    new "Suena bastante dócil si se metieron en problemas por esto."
+    new "Suenan bastante mansos si se metieron en problemas por esto."
 
     # game/script.rpy:3057
     old "Not really."
@@ -27470,7 +27470,7 @@ translate spanish strings:
 
     # game/script.rpy:3262
     old "It {i}does{/i} look like an S."
-    new "{i}sí{/i} parece una S."
+    new "{i}parece{/i} una S."
 
     # game/script.rpy:3262
     old "Abbotford's spelling ace is at it again."
@@ -27658,139 +27658,139 @@ translate spanish strings:
 
     # game/script.rpy:14440
     old "{i}no (start game){/i}"
-    new ""
+    new "{i}no (titulo){/i}"
 
     # game/script.rpy:14440
     old "{i}yes{/i}"
-    new ""
+    new "{i}si{/i}"
 
     # game/script.rpy:14449
     old "{i}where to?{/i}"
-    new ""
+    new "{i}¿a donde?{/i}"
 
     # game/script.rpy:14449
     old "Part 1_1"
-    new ""
+    new "Parte 1_1"
 
     # game/script.rpy:14449
     old "1_2"
-    new ""
+    new "1_2"
 
     # game/script.rpy:14449
     old "1_3"
-    new ""
+    new "1_3"
 
     # game/script.rpy:14449
     old "1_4"
-    new ""
+    new "1_4"
 
     # game/script.rpy:14449
     old "1_5"
-    new ""
+    new "1_5"
 
     # game/script.rpy:14449
     old "1_6"
-    new ""
+    new "1_6"
 
     # game/script.rpy:14449
     old "more"
-    new ""
+    new "más"
 
     # game/script.rpy:14472
     old "Part 2_1"
-    new ""
+    new "Parte 2_1"
 
     # game/script.rpy:14472
     old "2_2"
-    new ""
+    new "2_2"
 
     # game/script.rpy:14472
     old "2_3"
-    new ""
+    new "2_3"
 
     # game/script.rpy:14472
     old "2_4"
-    new ""
+    new "2_4"
 
     # game/script.rpy:14472
     old "2_5"
-    new ""
+    new "2_5"
 
     # game/script.rpy:14472
     old "2_6"
-    new ""
+    new "2_6"
 
     # game/script.rpy:14472
     old "2_7"
-    new ""
+    new "2_7"
 
     # game/script.rpy:14472
     old "2_8"
-    new ""
+    new "2_8"
 
     # game/script.rpy:14494
     old "Part 3_1"
-    new ""
+    new "Parte 3_1"
 
     # game/script.rpy:14494
     old "Part 3_3"
-    new ""
+    new "Parte 3_3"
 
     # game/script.rpy:14494
     old "Part 3_5"
-    new ""
+    new "Parte 3_5"
 
     # game/script.rpy:14494
     old "Part 3_7"
-    new ""
+    new "Parte 3_7"
 
     # game/script.rpy:14494
     old "Part 3_9"
-    new ""
+    new "Parte 3_9"
 
     # game/script.rpy:14494
     old "Part 4_1"
-    new ""
+    new "Parte 4_1"
 
     # game/script.rpy:14494
     old "part 4_1 perfect scores"
-    new ""
+    new "parte 4_1 puntuacion perfecta"
 
     # game/script.rpy:14517
     old "Part 5_Ina 1"
-    new ""
+    new "Parte 5_Ina 1"
 
     # game/script.rpy:14517
     old "5_Ina 3"
-    new ""
+    new "5_Ina 3"
 
     # game/script.rpy:14517
     old "5_Ina 5"
-    new ""
+    new "5_Ina 5"
 
     # game/script.rpy:14517
     old "5_Ina 7"
-    new ""
+    new "5_Ina 7"
 
     # game/script.rpy:14517
     old "5_Ina 10"
-    new ""
+    new "5_Ina 10"
 
     # game/script.rpy:14517
     old "Part 5_Rika 1"
-    new ""
+    new "Parte 5_Rika 1"
 
     # game/script.rpy:14517
     old "5_Rika 3"
-    new ""
+    new "5_Rika 3"
 
     # game/script.rpy:14517
     old "5_Rika 5"
-    new ""
+    new "5_Rika 5"
 
     # game/script.rpy:14517
     old "5_Rika 7"
-    new ""
+    new "5_Rika 7"
 
     # game/script.rpy:14517
     old "5_Rika 10"
@@ -27798,37 +27798,37 @@ translate spanish strings:
 
     # game/script.rpy:14541
     old "Part 4_4"
-    new ""
+    new "Parte 4_4"
 
     # game/script.rpy:14541
     old "part 4_4 perfect scores"
-    new ""
+    new "parte 4_4 puntuacion perfecta"
 
     # game/script.rpy:14541
     old "Part 5_Mei 1"
-    new ""
+    new "Parte 5_Mei 1"
 
     # game/script.rpy:14541
     old "5_Mei 3"
-    new ""
+    new "5_Mei 3"
 
     # game/script.rpy:14541
     old "5_Mei 5"
-    new ""
+    new "5_Mei 5"
 
     # game/script.rpy:14541
     old "5_Mei 7"
-    new ""
+    new "5_Mei 7"
 
     # game/script.rpy:14541
     old "5_Mei 9"
-    new ""
+    new "5_Mei 9"
 
     # game/script.rpy:14541
     old "5_Mei 11"
-    new ""
+    new "5_Mei 11"
 
     # game/script.rpy:14541
     old "5_Mei 14"
-    new ""
+    new "5_Mei 14"
 

@@ -148,7 +148,7 @@ translate spanish strings:
 
     # game/screens.rpy:856
     old "Auto-Forward Time"
-    new ""
+    new "Tiempo de Auto avance"
 
     # game/screens.rpy:863
     old "Music Volume"
@@ -160,7 +160,7 @@ translate spanish strings:
 
     # game/screens.rpy:876
     old "Test"
-    new "Test"
+    new "Prueba"
 
     # game/screens.rpy:880
     old "Voice Volume"
@@ -264,7 +264,7 @@ translate spanish strings:
 
     # game/screens.rpy:1144
     old "Left Click"
-    new "Botón Primario"
+    new "Click izquierdo"
 
     # game/screens.rpy:1148
     old "Middle Click"
@@ -272,7 +272,7 @@ translate spanish strings:
 
     # game/screens.rpy:1152
     old "Right Click"
-    new "Botón Secundario"
+    new "Click derecho"
 
     # game/screens.rpy:1156
     old "Rueda del mouse arriba\nClick Rollback Side"

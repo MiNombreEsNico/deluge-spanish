@@ -4,5 +4,5 @@ translate spanish strings:
 
     # game/options.rpy:15
     old "Deluge"
-    new "Deluge"
+    new "Diluvio"
 
