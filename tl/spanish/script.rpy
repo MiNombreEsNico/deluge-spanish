@@ -26944,7 +26944,7 @@ translate spanish mBad_55099ec9:
 translate spanish mBad_65ba0fa2:
 
     # m "I am starting on linen duty next week."
-    m "Comienzo en el servicio de lino la próxima semana."
+    m "Comienzo a trabajar en la lavanderia la próxima semana."
 
 # game/script.rpy:14234
 translate spanish mBad_855d9735:
@@ -26956,7 +26956,7 @@ translate spanish mBad_855d9735:
 translate spanish mBad_941596ee:
 
     # r "Linen duty—?"
-    r "¿Servicio de lino—?"
+    r "¿La lavanderia—?"
 
 # game/script.rpy:14238
 translate spanish mBad_cb638679:
@@ -27076,7 +27076,7 @@ translate spanish mBad_9285d1e5:
 translate spanish mBad_61903d49:
 
     # m "Very good. I will start on linen duty next week."
-    m "Muy bien. Comenzaré con el servicio de lino la próxima semana."
+    m "Muy bien. Comenzaré lo de la lavanderia la próxima semana."
 
 # game/script.rpy:14278
 translate spanish mBad_80d2c454:
@@ -27220,7 +27220,7 @@ translate spanish mBad_55099199:
 translate spanish mBad_e250940b:
 
     # m "I will start on linen duty next week."
-    m "Comenzaré con el servicio de lino la próxima semana."
+    m "Comenzaré a trabajar en la lavanderia la próxima semana."
 
 # game/script.rpy:14316
 translate spanish mBad_17e81cf1:
