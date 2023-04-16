@@ -27454,7 +27454,7 @@ translate spanish strings:
 
     # game/script.rpy:2734
     old "Sounds pretty tame if they got in trouble for this."
-    new "Suenan bastante mansos si se metieron en problemas por esto."
+    new "Suenan bastante estrictos si se metieron en problemas por esto."
 
     # game/script.rpy:3057
     old "Not really."
