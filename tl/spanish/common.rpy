@@ -4,7 +4,7 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new "Self-voicing disabled."
+    new "Auto-voz deshabilitada."
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
@@ -576,7 +576,7 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:442
     old "rollback side"
-    new ""
+    new "lado de reversión"
 
     # renpy/common/00preferences.rpy:452
     old "gl powersave"
@@ -1108,7 +1108,7 @@ translate spanish strings:
 
     # renpy/common/_errorhandling.rpym:617
     old "Rollback"
-    new ""
+    new "Reversión"
 
     # renpy/common/_errorhandling.rpym:619
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."

@@ -104,7 +104,7 @@ translate spanish strings:
 
     # game/screens.rpy:824
     old "Rollback Side"
-    new "Rollback Side"
+    new "Lado de Reversión"
 
     # game/screens.rpy:825
     old "Disable"
@@ -128,7 +128,7 @@ translate spanish strings:
 
     # game/screens.rpy:833
     old "After Choices"
-    new "Hasta las decisiones"
+    new "Despues de las Decisiones"
 
     # game/screens.rpy:834
     old "Transitions"
@@ -276,7 +276,7 @@ translate spanish strings:
 
     # game/screens.rpy:1156
     old "Rueda del mouse arriba\nClick Rollback Side"
-    new ""
+    new "Direccion de Reversión del Click"
 
     # game/screens.rpy:1160
     old "Mouse Wheel Down"
@@ -284,7 +284,7 @@ translate spanish strings:
 
     # game/screens.rpy:1167
     old "Right Trigger\nA/Bottom Button"
-    new "Gatillo derecho\nA/Abajo "
+    new "Gatillo derecho\nA/Boton Abajo "
 
     # game/screens.rpy:1171
     old "Left Trigger\nLeft Shoulder"
@@ -304,7 +304,7 @@ translate spanish strings:
 
     # game/screens.rpy:1188
     old "Y/Top Button"
-    new "Y/Arriba"
+    new "Y/Boton Arriba"
 
     # game/screens.rpy:1191
     old "Calibrate"
