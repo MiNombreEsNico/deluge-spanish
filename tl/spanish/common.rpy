@@ -324,7 +324,7 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:708
     old "The interactive director is not enabled here."
-    new ""
+    new "El director interactivo no está habilitado aquí."
 
     # renpy/common/00director.rpy:1481
     old "⬆"
@@ -336,7 +336,7 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:1551
     old "Done"
-    new ""
+    new "Listo"
 
     # renpy/common/00director.rpy:1561
     old "(statement)"
@@ -344,11 +344,11 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:1562
     old "(tag)"
-    new ""
+    new "(etiqueta)"
 
     # renpy/common/00director.rpy:1563
     old "(attributes)"
-    new ""
+    new "(atributos)"
 
     # renpy/common/00director.rpy:1564
     old "(transform)"
