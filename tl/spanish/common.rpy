@@ -352,35 +352,35 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:1564
     old "(transform)"
-    new ""
+    new "(transformar)"
 
     # renpy/common/00director.rpy:1589
     old "(transition)"
-    new ""
+    new "(transición)"
 
     # renpy/common/00director.rpy:1601
     old "(channel)"
-    new ""
+    new "(canal)"
 
     # renpy/common/00director.rpy:1602
     old "(filename)"
-    new ""
+    new "(nombre de archivo)"
 
     # renpy/common/00director.rpy:1631
     old "Change"
-    new ""
+    new "Cambio"
 
     # renpy/common/00director.rpy:1633
     old "Add"
-    new ""
+    new "Añadir"
 
     # renpy/common/00director.rpy:1636
     old "Cancel"
-    new ""
+    new "Cancelar"
 
     # renpy/common/00director.rpy:1639
     old "Remove"
-    new ""
+    new "Eliminar"
 
     # renpy/common/00director.rpy:1674
     old "Statement:"
@@ -388,31 +388,31 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:1695
     old "Tag:"
-    new ""
+    new "Etiqueta:"
 
     # renpy/common/00director.rpy:1711
     old "Attributes:"
-    new ""
+    new "Atributos:"
 
     # renpy/common/00director.rpy:1729
     old "Transforms:"
-    new ""
+    new "Transformaciones:"
 
     # renpy/common/00director.rpy:1748
     old "Behind:"
-    new ""
+    new "Detrás:"
 
     # renpy/common/00director.rpy:1767
     old "Transition:"
-    new ""
+    new "Transición:"
 
     # renpy/common/00director.rpy:1785
     old "Channel:"
-    new ""
+    new "Canal:"
 
     # renpy/common/00director.rpy:1803
     old "Audio Filename:"
-    new ""
+    new "Nombre del archivo de audio:"
 
     # renpy/common/00gui.rpy:435
     old "Are you sure?"
@@ -436,35 +436,35 @@ translate spanish strings:
 
     # renpy/common/00gui.rpy:440
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new ""
+    new "¿Seguro que quieres volver al menú principal?\nEsto perderá el progreso no guardado."
 
     # renpy/common/00gui.rpy:441
     old "Are you sure you want to end the replay?"
-    new ""
+    new "¿Seguro que quieres terminar la repetición?"
 
     # renpy/common/00gui.rpy:442
     old "Are you sure you want to begin skipping?"
-    new ""
+    new "¿Seguro de que quieres empezar a saltártelo?"
 
     # renpy/common/00gui.rpy:443
     old "Are you sure you want to skip to the next choice?"
-    new ""
+    new "¿Seguro que quieres saltar a la siguiente elección?"
 
     # renpy/common/00gui.rpy:444
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new ""
+    new "¿Seguro que quieres saltar el diálogo no visto a la siguiente elección?"
 
     # renpy/common/00keymap.rpy:310
     old "Failed to save screenshot as %s."
-    new ""
+    new "Error al guardar la captura de pantalla como %s."
 
     # renpy/common/00keymap.rpy:322
     old "Saved screenshot as %s."
-    new ""
+    new "Captura de pantalla guardada como %s."
 
     # renpy/common/00library.rpy:211
     old "Skip Mode"
-    new ""
+    new "Modo Omisión"
 
     # renpy/common/00library.rpy:297
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
