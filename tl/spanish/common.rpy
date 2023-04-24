@@ -464,51 +464,51 @@ translate spanish strings:
 
     # renpy/common/00library.rpy:211
     old "Skip Mode"
-    new "Modo Omisión"
+    new "Modo Saltar"
 
     # renpy/common/00library.rpy:297
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new ""
+    new "Este programa contiene software libre bajo varias licencias, incluidas la Licencia MIT y la Licencia Pública General Reducida de GNU. Puede encontrar una lista completa del software, con enlaces al código fuente completo, en {a=https://www.renpy.org/l/license}aquí{/a}."
 
     # renpy/common/00preferences.rpy:259
     old "display"
-    new ""
+    new "mostrar"
 
     # renpy/common/00preferences.rpy:271
     old "transitions"
-    new ""
+    new "transiciones"
 
     # renpy/common/00preferences.rpy:280
     old "skip transitions"
-    new ""
+    new "omitir transiciones"
 
     # renpy/common/00preferences.rpy:282
     old "video sprites"
-    new ""
+    new "video sprites"
 
     # renpy/common/00preferences.rpy:291
     old "show empty window"
-    new ""
+    new "mostrar ventana vacía"
 
     # renpy/common/00preferences.rpy:300
     old "text speed"
-    new ""
+    new "velocidad del texto"
 
     # renpy/common/00preferences.rpy:308
     old "joystick"
-    new ""
+    new "joystick"
 
     # renpy/common/00preferences.rpy:308
     old "joystick..."
-    new ""
+    new "joystick..."
 
     # renpy/common/00preferences.rpy:315
     old "skip"
-    new ""
+    new "saltar"
 
     # renpy/common/00preferences.rpy:318
     old "skip unseen [text]"
-    new ""
+    new "saltar [texto] no visto"
 
     # renpy/common/00preferences.rpy:323
     old "skip unseen text"
@@ -516,55 +516,55 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:325
     old "begin skipping"
-    new ""
+    new "saltar texto no visto"
 
     # renpy/common/00preferences.rpy:329
     old "after choices"
-    new ""
+    new "tras las elecciones"
 
     # renpy/common/00preferences.rpy:336
     old "skip after choices"
-    new ""
+    new "saltar tras las elecciones"
 
     # renpy/common/00preferences.rpy:338
     old "auto-forward time"
-    new ""
+    new "avance automático del tiempo"
 
     # renpy/common/00preferences.rpy:352
     old "auto-forward"
-    new ""
+    new "avance-automático"
 
     # renpy/common/00preferences.rpy:359
     old "Auto forward"
-    new ""
+    new "Avance automático"
 
     # renpy/common/00preferences.rpy:362
     old "auto-forward after click"
-    new ""
+    new "avance automático después de hacer clic"
 
     # renpy/common/00preferences.rpy:371
     old "automatic move"
-    new ""
+    new "movimiento automático"
 
     # renpy/common/00preferences.rpy:380
     old "wait for voice"
-    new ""
+    new "esperar voz"
 
     # renpy/common/00preferences.rpy:389
     old "voice sustain"
-    new ""
+    new "voz mantenida"
 
     # renpy/common/00preferences.rpy:398
     old "self voicing"
-    new ""
+    new "voz propia"
 
     # renpy/common/00preferences.rpy:407
     old "self voicing volume drop"
-    new ""
+    new "caída del volumen de la voz propia"
 
     # renpy/common/00preferences.rpy:415
     old "clipboard voicing"
-    new ""
+    new "voces en el portapapeles"
 
     # renpy/common/00preferences.rpy:424
     old "debug voicing"
@@ -572,11 +572,11 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:433
     old "emphasize audio"
-    new ""
+    new "acentuar el audio"
 
     # renpy/common/00preferences.rpy:442
     old "rollback side"
-    new "lado de reversión"
+    new "lado de retroceso"
 
     # renpy/common/00preferences.rpy:452
     old "gl powersave"
@@ -592,71 +592,71 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:464
     old "font transform"
-    new ""
+    new "transformación de fuente"
 
     # renpy/common/00preferences.rpy:467
     old "font size"
-    new ""
+    new "tamaño de fuente"
 
     # renpy/common/00preferences.rpy:475
     old "font line spacing"
-    new ""
+    new "interlineado de fuentes"
 
     # renpy/common/00preferences.rpy:483
     old "system cursor"
-    new ""
+    new "cursor del sistema"
 
     # renpy/common/00preferences.rpy:492
     old "renderer menu"
-    new ""
+    new "menú del renderizador"
 
     # renpy/common/00preferences.rpy:495
     old "accessibility menu"
-    new ""
+    new "menú de accesibilidad"
 
     # renpy/common/00preferences.rpy:498
     old "high contrast text"
-    new ""
+    new "texto de alto contraste"
 
     # renpy/common/00preferences.rpy:507
     old "audio when minimized"
-    new ""
+    new "audio al minimizar"
 
     # renpy/common/00preferences.rpy:527
     old "main volume"
-    new ""
+    new "volumen principal"
 
     # renpy/common/00preferences.rpy:528
     old "music volume"
-    new ""
+    new "volumen de la música"
 
     # renpy/common/00preferences.rpy:529
     old "sound volume"
-    new ""
+    new "volumen del sonido"
 
     # renpy/common/00preferences.rpy:530
     old "voice volume"
-    new ""
+    new "volumen de voz"
 
     # renpy/common/00preferences.rpy:531
     old "mute main"
-    new ""
+    new "silenciado principal"
 
     # renpy/common/00preferences.rpy:532
     old "mute music"
-    new ""
+    new "silenciar música"
 
     # renpy/common/00preferences.rpy:533
     old "mute sound"
-    new ""
+    new "silenciar sonido"
 
     # renpy/common/00preferences.rpy:534
     old "mute voice"
-    new ""
+    new "silenciar voz"
 
     # renpy/common/00preferences.rpy:535
     old "mute all"
-    new ""
+    new "silenciar todo"
 
     # renpy/common/00preferences.rpy:616
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
@@ -672,39 +672,39 @@ translate spanish strings:
 
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
-    new ""
+    new "Ranura vacía"
 
     # renpy/common/_compat/gamemenu.rpym:355
     old "Previous"
-    new ""
+    new "Anterior"
 
     # renpy/common/_compat/gamemenu.rpym:362
     old "Next"
-    new ""
+    new "Siguiente"
 
     # renpy/common/_compat/preferences.rpym:428
     old "Joystick Mapping"
-    new ""
+    new "Asignación de joystick"
 
     # renpy/common/_developer/developer.rpym:38
     old "Developer Menu"
-    new ""
+    new "Menú de desarrollador"
 
     # renpy/common/_developer/developer.rpym:43
     old "Interactive Director (D)"
-    new ""
+    new "Director Interactivo (D)"
 
     # renpy/common/_developer/developer.rpym:45
     old "Reload Game (Shift+R)"
-    new ""
+    new "Recargar juego (Shift+R)"
 
     # renpy/common/_developer/developer.rpym:47
     old "Console (Shift+O)"
-    new ""
+    new "Consola (Shift+O)"
 
     # renpy/common/_developer/developer.rpym:49
     old "Variable Viewer"
-    new ""
+    new "Visualizador de variables"
 
     # renpy/common/_developer/developer.rpym:51
     old "Image Location Picker"
