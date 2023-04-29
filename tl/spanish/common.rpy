@@ -512,11 +512,11 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:323
     old "skip unseen text"
-    new ""
+    new "saltar texto no visto"
 
     # renpy/common/00preferences.rpy:325
     old "begin skipping"
-    new "saltar texto no visto"
+    new "empezar a saltar"
 
     # renpy/common/00preferences.rpy:329
     old "after choices"
