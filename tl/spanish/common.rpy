@@ -568,7 +568,7 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:424
     old "debug voicing"
-    new ""
+    new "depurar la voz"
 
     # renpy/common/00preferences.rpy:433
     old "emphasize audio"
@@ -708,131 +708,131 @@ translate spanish strings:
 
     # renpy/common/_developer/developer.rpym:51
     old "Image Location Picker"
-    new ""
+    new "Selector de ubicación de imágenes"
 
     # renpy/common/_developer/developer.rpym:53
     old "Filename List"
-    new ""
+    new "Lista de nombres de archivo"
 
     # renpy/common/_developer/developer.rpym:57
     old "Show Image Load Log (F4)"
-    new ""
+    new "Mostrar registro de carga de imágenes (F4)"
 
     # renpy/common/_developer/developer.rpym:60
     old "Hide Image Load Log (F4)"
-    new ""
+    new "Ocultar registro de carga de imágenes (F4)"
 
     # renpy/common/_developer/developer.rpym:63
     old "Image Attributes"
-    new ""
+    new "Atributos de imagen"
 
     # renpy/common/_developer/developer.rpym:90
     old "[name] [attributes] (hidden)"
-    new ""
+    new "[nombre] [atributos] (oculto)"
 
     # renpy/common/_developer/developer.rpym:94
     old "[name] [attributes]"
-    new ""
+    new "[nombre] [atributos]"
 
     # renpy/common/_developer/developer.rpym:143
     old "Nothing to inspect."
-    new ""
+    new "Nada que inspeccionar."
 
     # renpy/common/_developer/developer.rpym:154
     old "Hide deleted"
-    new ""
+    new "Ocultar eliminados"
 
     # renpy/common/_developer/developer.rpym:154
     old "Show deleted"
-    new ""
+    new "Mostrar eliminados"
 
     # renpy/common/_developer/developer.rpym:278
     old "Return to the developer menu"
-    new ""
+    new "Volver al menú de desarrollador"
 
     # renpy/common/_developer/developer.rpym:443
     old "Rectangle: %r"
-    new ""
+    new "Rectángulo: %r"
 
     # renpy/common/_developer/developer.rpym:448
     old "Mouse position: %r"
-    new ""
+    new "Posición del ratón: %r"
 
     # renpy/common/_developer/developer.rpym:453
     old "Right-click or escape to quit."
-    new ""
+    new "Clic con el botón derecho o escape para salir."
 
     # renpy/common/_developer/developer.rpym:485
     old "Rectangle copied to clipboard."
-    new ""
+    new "Rectángulo copiado al portapapeles."
 
     # renpy/common/_developer/developer.rpym:488
     old "Position copied to clipboard."
-    new ""
+    new "Posición copiada al portapapeles."
 
     # renpy/common/_developer/developer.rpym:506
     old "Type to filter: "
-    new ""
+    new "Tipo a filtrar: "
 
     # renpy/common/_developer/developer.rpym:631
     old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-    new ""
+    new "Texturas: [tex_count] ([tex_size_mb:.1f] MB)"
 
     # renpy/common/_developer/developer.rpym:635
     old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-    new ""
+    new "Caché de imágenes: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
 
     # renpy/common/_developer/developer.rpym:645
     old "✔ "
-    new ""
+    new "✔ "
 
     # renpy/common/_developer/developer.rpym:648
     old "✘ "
-    new ""
+    new "✘ "
 
     # renpy/common/_developer/developer.rpym:653
     old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-    new ""
+    new "\n{color=#cfc}✔ imagen prevista (buena){/color} {color}\n{color=#fcc}✘ imagen no prevista (mala){/color}\n{color=#fff}Arrastrar para mover.{/color}"
 
     # renpy/common/_developer/inspector.rpym:38
     old "Displayable Inspector"
-    new ""
+    new "Inspector desplegable"
 
     # renpy/common/_developer/inspector.rpym:61
     old "Size"
-    new ""
+    new "Tamaño"
 
     # renpy/common/_developer/inspector.rpym:65
     old "Style"
-    new ""
+    new "Estilo"
 
     # renpy/common/_developer/inspector.rpym:71
     old "Location"
-    new ""
+    new "Ubicación"
 
     # renpy/common/_developer/inspector.rpym:122
     old "Inspecting Styles of [displayable_name!q]"
-    new ""
+    new "Inspección de estilos de [nombre_visualizable!q]"
 
     # renpy/common/_developer/inspector.rpym:139
     old "displayable:"
-    new ""
+    new "visualizable:"
 
     # renpy/common/_developer/inspector.rpym:145
     old "        (no properties affect the displayable)"
-    new ""
+    new "        (ninguna propiedad afecta a lo visualizable)"
 
     # renpy/common/_developer/inspector.rpym:147
     old "        (default properties omitted)"
-    new ""
+    new "        (propiedades por defecto omitidas)"
 
     # renpy/common/_developer/inspector.rpym:185
     old "<repr() failed>"
-    new ""
+    new "<repr() fallido>"
 
     # renpy/common/_layout/classic_load_save.rpym:170
     old "a"
-    new ""
+    new "a"
 
     # renpy/common/_layout/classic_load_save.rpym:179
     old "q"
@@ -840,27 +840,27 @@ translate spanish strings:
 
     # renpy/common/00iap.rpy:219
     old "Contacting App Store\nPlease Wait..."
-    new ""
+    new "Contactando con App Store\nPor favor, espere..."
 
     # renpy/common/00updater.rpy:419
     old "The Ren'Py Updater is not supported on mobile devices."
-    new ""
+    new "Ren'Py Updater no es compatible con dispositivos móviles."
 
     # renpy/common/00updater.rpy:548
     old "An error is being simulated."
-    new ""
+    new "Se está simulando un error. "
 
     # renpy/common/00updater.rpy:738
     old "Either this project does not support updating, or the update status file was deleted."
-    new ""
+    new "Este proyecto no admite actualizaciones o se ha eliminado el archivo de estado de actualización."
 
     # renpy/common/00updater.rpy:752
     old "This account does not have permission to perform an update."
-    new ""
+    new "Esta cuenta no tiene permiso para realizar una actualización."
 
     # renpy/common/00updater.rpy:755
     old "This account does not have permission to write the update log."
-    new ""
+    new "Esta cuenta no tiene permiso para escribir el registro de actualización"
 
     # renpy/common/00updater.rpy:783
     old "Could not verify update signature."
