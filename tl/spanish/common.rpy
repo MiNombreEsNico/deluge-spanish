@@ -864,11 +864,11 @@ translate spanish strings:
 
     # renpy/common/00updater.rpy:783
     old "Could not verify update signature."
-    new ""
+    new "No se ha podido verificar la confirmación de la actualización"
 
     # renpy/common/00updater.rpy:1084
     old "The update file was not downloaded."
-    new ""
+    new "No se ha descargado el archivo de actualización."
 
     # renpy/common/00updater.rpy:1102
     old "The update file does not have the correct digest - it may have been corrupted."
