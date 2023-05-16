@@ -1104,7 +1104,7 @@ translate spanish strings:
 
     # renpy/common/_errorhandling.rpym:594
     old "An exception has occurred."
-    new ""
+    new "Ha ocurrido una excepción."
 
     # renpy/common/_errorhandling.rpym:617
     old "Rollback"
@@ -1112,41 +1112,41 @@ translate spanish strings:
 
     # renpy/common/_errorhandling.rpym:619
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new ""
+    new "Intentar retroceder a un momento anterior, permitiendo guardar o elegir una opción diferente."
 
     # renpy/common/_errorhandling.rpym:622
     old "Ignore"
-    new ""
+    new "Ignorar"
 
     # renpy/common/_errorhandling.rpym:626
     old "Ignores the exception, allowing you to continue."
-    new ""
+    new "Ignorar la excepción, permitiendo continuar."
 
     # renpy/common/_errorhandling.rpym:628
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new ""
+    new "Ignorar la excepción, permitiendo continuar. Esto a menudo conduce a errores adicionales."
 
     # renpy/common/_errorhandling.rpym:632
     old "Reload"
-    new ""
+    new "Recargar"
 
     # renpy/common/_errorhandling.rpym:634
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new ""
+    new "Recarga el juego desde el disco, guardando y restaurando el estado del juego si es posible."
 
     # renpy/common/_errorhandling.rpym:637
     old "Console"
-    new ""
+    new "Panel"
 
     # renpy/common/_errorhandling.rpym:639
     old "Opens a console to allow debugging the problem."
-    new ""
+    new "Abrir un panel para permitir la depuración del problema."
 
     # renpy/common/_errorhandling.rpym:652
     old "Quits the game."
-    new ""
+    new "Abandonar el juego."
 
     # renpy/common/_errorhandling.rpym:673
     old "Parsing the script failed."
-    new ""
+    new "Error al analizar el script."
 
