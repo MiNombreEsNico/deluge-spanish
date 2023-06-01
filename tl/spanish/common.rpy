@@ -919,8 +919,8 @@ translate spanish strings:
     new "Se han instalado las actualizaciones. El programa se reiniciará."
 
     # renpy/common/00updater.rpy:1649
-    old "c"
-    new "c"
+    old "The updates have been installed."
+    new "Se han instalado las actualizaciones."
 
     # renpy/common/00updater.rpy:1651
     old "The updates were cancelled."
