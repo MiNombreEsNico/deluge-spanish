@@ -384,7 +384,7 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:1674
     old "Statement:"
-    new ""
+    new "Afirmación:"
 
     # renpy/common/00director.rpy:1695
     old "Tag:"
@@ -580,15 +580,15 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:452
     old "gl powersave"
-    new ""
+    new "powersave gl"
 
     # renpy/common/00preferences.rpy:458
     old "gl framerate"
-    new ""
+    new "tasa de fotogramas gl"
 
     # renpy/common/00preferences.rpy:461
     old "gl tearing"
-    new ""
+    new "tearing gl"
 
     # renpy/common/00preferences.rpy:464
     old "font transform"
@@ -660,15 +660,15 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:616
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new ""
+    new "Voz del portapapeles activada. Pulsa 'Mayús+C' para desactivarlo."
 
     # renpy/common/00preferences.rpy:618
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new ""
+    new "La voz automática diría \"[renpy.display.tts.last]\". Pulsa 'alt+shift+V' para desactivarlo."
 
     # renpy/common/00preferences.rpy:620
     old "Self-voicing enabled. Press 'v' to disable."
-    new ""
+    new "Autovoz activado. Pulse 'v' para desactivar."
 
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
@@ -836,7 +836,7 @@ translate spanish strings:
 
     # renpy/common/_layout/classic_load_save.rpym:179
     old "q"
-    new ""
+    new "q"
 
     # renpy/common/00iap.rpy:219
     old "Contacting App Store\nPlease Wait..."
@@ -872,235 +872,235 @@ translate spanish strings:
 
     # renpy/common/00updater.rpy:1102
     old "The update file does not have the correct digest - it may have been corrupted."
-    new ""
+    new "El archivo de actualización no tiene el compendio correcto - puede haberse corrompido."
 
     # renpy/common/00updater.rpy:1252
     old "While unpacking {}, unknown type {}."
-    new ""
+    new "Mientras desempaquetaba {}, tipo desconocido {}."
 
     # renpy/common/00updater.rpy:1624
     old "Updater"
-    new ""
+    new "Actualizador"
 
     # renpy/common/00updater.rpy:1631
     old "An error has occured:"
-    new ""
+    new "Se ha producido un error:"
 
     # renpy/common/00updater.rpy:1633
     old "Checking for updates."
-    new ""
+    new "Comprobando actualizaciones."
 
     # renpy/common/00updater.rpy:1635
     old "This program is up to date."
-    new ""
+    new "Este programa está actualizado."
 
     # renpy/common/00updater.rpy:1637
     old "[u.version] is available. Do you want to install it?"
-    new ""
+    new "[u.version] está disponible. ¿Deseas instalarla?"
 
     # renpy/common/00updater.rpy:1639
     old "Preparing to download the updates."
-    new ""
+    new "Preparando la descarga de actualizaciones."
 
     # renpy/common/00updater.rpy:1641
     old "Downloading the updates."
-    new ""
+    new "Descargando las actualizaciones."
 
     # renpy/common/00updater.rpy:1643
     old "Unpacking the updates."
-    new ""
+    new "Desempaquetando las actualizaciones."
 
     # renpy/common/00updater.rpy:1645
     old "Finishing up."
-    new ""
+    new "Terminando."
 
     # renpy/common/00updater.rpy:1647
     old "The updates have been installed. The program will restart."
-    new ""
+    new "Se han instalado las actualizaciones. El programa se reiniciará."
 
     # renpy/common/00updater.rpy:1649
-    old "The updates have been installed."
-    new ""
+    old "c"
+    new "c"
 
     # renpy/common/00updater.rpy:1651
     old "The updates were cancelled."
-    new ""
+    new "Se cancelaron las actualizaciones."
 
     # renpy/common/00updater.rpy:1666
     old "Proceed"
-    new ""
+    new "Continuar"
 
     # renpy/common/00gallery.rpy:627
     old "Image [index] of [count] locked."
-    new ""
+    new "Imagen [index] de [count] bloqueada."
 
     # renpy/common/00gallery.rpy:647
     old "prev"
-    new ""
+    new "anterior"
 
     # renpy/common/00gallery.rpy:648
     old "next"
-    new ""
+    new "siguiente"
 
     # renpy/common/00gallery.rpy:649
     old "slideshow"
-    new ""
+    new "presentación"
 
     # renpy/common/00gallery.rpy:650
     old "return"
-    new ""
+    new "regresar"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
-    new ""
+    new "Renderizador"
 
     # renpy/common/00gltest.rpy:93
     old "Automatically Choose"
-    new ""
+    new "Elegir automáticamente"
 
     # renpy/common/00gltest.rpy:100
     old "Force GL Renderer"
-    new ""
+    new "Forzar renderizador GL"
 
     # renpy/common/00gltest.rpy:105
     old "Force ANGLE Renderer"
-    new ""
+    new "Forzar renderizador ANGLE"
 
     # renpy/common/00gltest.rpy:110
     old "Force GLES Renderer"
-    new ""
+    new "Forzar renderizador GLES"
 
     # renpy/common/00gltest.rpy:116
     old "Force GL2 Renderer"
-    new ""
+    new "Forzar renderizador GL2"
 
     # renpy/common/00gltest.rpy:121
     old "Force ANGLE2 Renderer"
-    new ""
+    new "Forzar renderizador ANGLE2"
 
     # renpy/common/00gltest.rpy:126
     old "Force GLES2 Renderer"
-    new ""
+    new "Forzar renderizador GLES2"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
-    new ""
+    new "Habilitar (sin lista de bloqueo)"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
-    new ""
+    new "Powersave"
 
     # renpy/common/00gltest.rpy:173
     old "Framerate"
-    new ""
+    new "Tasa de fotogramas"
 
     # renpy/common/00gltest.rpy:177
     old "Screen"
-    new ""
+    new "Pantalla"
 
     # renpy/common/00gltest.rpy:181
     old "60"
-    new ""
+    new "60"
 
     # renpy/common/00gltest.rpy:185
     old "30"
-    new ""
+    new "30"
 
     # renpy/common/00gltest.rpy:191
     old "Tearing"
-    new ""
+    new "Tearing"
 
     # renpy/common/00gltest.rpy:207
     old "Changes will take effect the next time this program is run."
-    new ""
+    new "Los cambios surtirán efecto la próxima vez que se ejecute este programa."
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
-    new ""
+    new "Advertencia de rendimiento"
 
     # renpy/common/00gltest.rpy:247
     old "This computer is using software rendering."
-    new ""
+    new "Este computador está usando software de renderizado."
 
     # renpy/common/00gltest.rpy:249
     old "This game requires use of GL2 that can't be initialised."
-    new ""
+    new "Este juego requiere el uso de GL2 que no se puede inicializar."
 
     # renpy/common/00gltest.rpy:251
     old "This computer has a problem displaying graphics: [problem]."
-    new ""
+    new "Este equipo tiene un problema de visualización de gráficos: [problema]."
 
     # renpy/common/00gltest.rpy:255
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new ""
+    new "Es posible que sus controladores gráficos no estén actualizados o no funcionen correctamente. Esto puede provocar una visualización lenta o incorrecta de los gráficos."
 
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new ""
+    new "El archivo {a=edit:1:log.txt}log.txt{/a} puede contener información que le ayude a determinar qué le ocurre a su equipo."
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new ""
+    new "Más detalles sobre cómo solucionarlo se pueden encontrar en la {a=[url]}documentación{/a}."
 
     # renpy/common/00gltest.rpy:269
     old "Continue, Show this warning again"
-    new ""
+    new "Continuar, Mostrar esta advertencia de nuevo"
 
     # renpy/common/00gltest.rpy:273
     old "Continue, Don't show warning again"
-    new ""
+    new "Continuar, No volver a mostrar advertencia"
 
     # renpy/common/00gltest.rpy:281
     old "Change render options"
-    new ""
+    new "Cambiar las opciones de renderizado"
 
     # renpy/common/00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
-    new ""
+    new "Selecciona Gamepad para calibrar"
 
     # renpy/common/00gamepad.rpy:35
     old "No Gamepads Available"
-    new ""
+    new "No hay Gamepads disponibles"
 
     # renpy/common/00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new ""
+    new "Calibrar [nombre] ([i]/[total])"
 
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
-    new ""
+    new "Pulse o mueva el '[control!s]' [tipo]."
 
     # renpy/common/00gamepad.rpy:68
     old "Skip (A)"
-    new ""
+    new "Saltar (A)"
 
     # renpy/common/00gamepad.rpy:71
     old "Back (B)"
-    new ""
+    new "Atrás (B)"
 
     # renpy/common/_errorhandling.rpym:555
     old "Open"
-    new ""
+    new "Abrir"
 
     # renpy/common/_errorhandling.rpym:557
     old "Opens the traceback.txt file in a text editor."
-    new ""
+    new "Abre el archivo traceback.txt en un editor de texto."
 
     # renpy/common/_errorhandling.rpym:559
     old "Copy BBCode"
-    new ""
+    new "Copiar BBCode"
 
     # renpy/common/_errorhandling.rpym:561
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new ""
+    new "Copia el archivo traceback.txt en el portapapeles como BBcode para foros como https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:563
     old "Copy Markdown"
-    new ""
+    new "Copiar Markdown"
 
     # renpy/common/_errorhandling.rpym:565
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new ""
+    new "Copia el archivo traceback.txt al portapapeles como Markdown para Discord."
 
     # renpy/common/_errorhandling.rpym:594
     old "An exception has occurred."
