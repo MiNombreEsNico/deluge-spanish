@@ -434,7 +434,7 @@ translate spanish p1c1_e9d7229c:
 translate spanish p1c1_972354cb:
 
     # n "Now remember — the printer will deliver tomorrow at five in the morning, so I want to see you here no later than 5:15 AM."
-    n "Ahora recuerde: la imprenta los entregará mañana a las 5:00 A.M., así que quiero verte aquí como mucho a las 5:15 A.M."
+    n "Ahora recuerda: la imprenta los entregará mañana a las 5:00 A.M., así que quiero verte aquí como mucho a las 5:15 A.M."
 
 # game/script.rpy:443
 translate spanish p1c1_d27a1701:
@@ -3333,7 +3333,7 @@ translate spanish p2c3_0cb50d07:
 translate spanish p2c3_d7ebce2a:
 
     # n "{i}A boundless mass of human being, flowing in a stream without banks, up-stream, a dark past wherein our time-sense loses all powers of definition and restless or uneasy fancy conjures up geological periods to hide away an eternally-unsolvable riddle—{/i}"
-    n "{i}Una masa ilimitada de ser humano, fluyendo en una corriente sin orillas, río arriba, un pasado oscuro en el que nuestro sentido del tiempo pierde todo poder de definición y la fantasía inquieta conjura períodos geológicos para ocultar un enigma eternamente irresoluble—{/i}"
+    n "{i}Una masa ilimitada de seres humanos, fluyendo en una corriente sin orillas, río arriba, un pasado oscuro en el que nuestro sentido del tiempo pierde todo poder de definición y la fantasía inquieta conjura períodos geológicos para ocultar un enigma eternamente irresoluble—{/i}"
 
 # game/script.rpy:2106
 translate spanish p2c3_cb185187:
@@ -4059,7 +4059,7 @@ translate spanish p2c5_d2993254:
 translate spanish p2c5_e5bea6e3:
 
     # n "It pertains to the congregation on Abbot Island, led by the reverend Johan Kuyper."
-    n "Pertenece a la congregación de Abbot Island, dirigida por el reverendo Johan Kuyper."
+    n "Pertenece a la congregación de la isla de Abbot, dirigida por el reverendo Johan Kuyper."
 
 # game/script.rpy:2479
 translate spanish p2c5_b1b5bea0:
