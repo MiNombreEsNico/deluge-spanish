@@ -3429,13 +3429,13 @@ translate spanish p2c3_cbcf5a05:
 translate spanish p2c3_ca32c7ad:
 
     # n "Bigger than the Sandford house affair—"
-    n "Más grande que el asunto de la casa de Sandford—"
+    n "Más grande que el asunto de la casa Sandford—"
 
 # game/script.rpy:2148
 translate spanish p2c3_9c510e13:
 
     # a "What's that Sandford house affair you keep talking about?"
-    a "¿Qué es ese asunto de la casa de Sandford del que sigues hablando?"
+    a "¿Qué es ese asunto de la casa Sandford del que sigues hablando?"
 
 # game/script.rpy:2149
 translate spanish p2c3_3f72f545:
@@ -3453,7 +3453,7 @@ translate spanish p2c3_b57143b8:
 translate spanish p2c3_30c60fc9:
 
     # n "Our exposé on the Sandford house affair was our finest hour — the scoop that truly put The Sunday Abbot on the map."
-    n "Nuestra exposición sobre el asunto de la casa de Sandford fue nuestro mejor momento: la primicia que realmente puso a The Sunday Abbot en el mapa."
+    n "Nuestra exposición sobre el asunto de la casa Sandford fue nuestro mejor momento: la primicia que realmente puso a The Sunday Abbot en el mapa."
 
 # game/script.rpy:2157
 translate spanish p2c3_8adbc28a:
@@ -3471,7 +3471,7 @@ translate spanish p2c3_62ef6e16:
 translate spanish p2c3_9be90492:
 
     # n "The politician in question is named Leopold. Leopold {i}marquis of Abbot{/i}, to be precise — a member of the nobility. He still holds a seat in the Abbotsford city council."
-    n "El político en cuestión se llama Leopoldo. Leopold {i}marqués de Abbot{/i}, para ser precisos, un miembro de la nobleza. Todavía ocupa un puesto en el consejo de la ciudad de Abbotsford."
+    n "El político en cuestión se llama Leopold. Leopold {i}marqués de Abbot{/i}, para ser precisos, un miembro de la nobleza. Todavía ocupa un puesto en el consejo de la ciudad de Abbotsford."
 
 # game/script.rpy:2170
 translate spanish p2c3_01401c67:
@@ -3489,7 +3489,7 @@ translate spanish p2c3_4d2fc8f8:
 translate spanish p2c3_d631d211:
 
     # n "It was another set of photographs — placing marquis Leopold at a lavish party inside {i}Sandford House{/i}, one of the oldest mansions in Abbotsford."
-    n "Era otro conjunto de fotografías: colocando al marqués Leopold en una lujosa fiesta dentro de {i}Sandford House{/i}, una de las mansiones más antiguas de Abbotsford."
+    n "Era otro conjunto de fotografías: colocando al marqués Leopold en una lujosa fiesta dentro de {i}la casa Sandford{/i}, una de las mansiones más antiguas de Abbotsford."
 
 # game/script.rpy:2187
 translate spanish p2c3_5aeef131:
@@ -3501,7 +3501,7 @@ translate spanish p2c3_5aeef131:
 translate spanish p2c3_5aff83cf:
 
     # n "In a note, the anonymous source explained that marquis Leopold had been carrying classified documents with him on the night he attended Sandford House."
-    n "En una nota, la fuente anónima explicó que el marqués Leopold llevaba consigo documentos clasificados la noche que asistió a Sandford House."
+    n "En una nota, la fuente anónima explicó que el marqués Leopold llevaba consigo documentos clasificados la noche que asistió a la casa Sandford."
 
 # game/script.rpy:2191
 translate spanish p2c3_ed7f9252:
@@ -7307,7 +7307,7 @@ translate spanish p3c4_5b21c047:
 translate spanish p3c4_97a322a5:
 
     # l "And I had it with me when the whole Sandford house affair occurred."
-    l "Y lo tenía conmigo cuando ocurrió todo el asunto de la casa de Sandford"
+    l "Y lo tenía conmigo cuando ocurrió todo el asunto de la casa Sandford"
 
 # game/script.rpy:4220
 translate spanish p3c4_0638506a:
@@ -7319,7 +7319,7 @@ translate spanish p3c4_0638506a:
 translate spanish p3c4_b476971c:
 
     # a "The document you lost at Sandford house was the appendix to the church inquiries?!"
-    a "¡¿El documento que perdiste en la casa de Sandford era el apéndice de las investigaciones de la iglesia?!"
+    a "¡¿El documento que perdiste en la casa Sandford era el apéndice de las investigaciones de la iglesia?!"
 
 # game/script.rpy:4223
 translate spanish p3c4_a946940c:
@@ -7361,7 +7361,7 @@ translate spanish p3c4_724b5814:
 translate spanish p3c4_0b85a646:
 
     # l "Kuyper was happy to provide Sandford house — the most exquisite property in town — for the occasion."
-    l "Kuyper estuvo feliz de proporcionar la casa de Sandford, la propiedad más exquisita de la ciudad, para la ocasión."
+    l "Kuyper estuvo feliz de proporcionar la casa Sandford, la propiedad más exquisita de la ciudad, para la ocasión."
 
 # game/script.rpy:4234
 translate spanish p3c4_93e9cc4b:
@@ -10434,7 +10434,7 @@ translate spanish p4c2_0dcf5704:
 translate spanish p4c2_89a211c0:
 
     # r "I have the keys to Sandford house."
-    r "Tengo las llaves de la casa de Sandford."
+    r "Tengo las llaves de la casa Sandford."
 
 # game/script.rpy:5929
 translate spanish p4c2_13a330e6:
@@ -12782,7 +12782,7 @@ translate spanish p5Ic3_e4d5fd7e:
 translate spanish p5Ic3_8cffe63e:
 
     # n "Leopold is clearly the end of his lineage. The dredges of centuries of degeneracy and spiritual failure that have slowly sunk to the bottom."
-    n "Leopoldo es claramente el final de su linaje. Las dragas de siglos de degeneración y fracaso espiritual que se han hundido lentamente hasta el fondo."
+    n "Leopold es claramente el final de su linaje. Las dragas de siglos de degeneración y fracaso espiritual que se han hundido lentamente hasta el fondo."
 
 # game/script.rpy:7217
 translate spanish p5Ic3_63cd7d9c:
@@ -15465,7 +15465,7 @@ translate spanish p5Ic8_8f6f41da:
 translate spanish p5Ic8_5b2bc74e:
 
     # l "Just look at it, beautiful Sandford house. The seat of my forefathers."
-    l "Solo mírala, hermosa casa de Sandford. La sede de mis antepasados."
+    l "Solo mírala, hermosa casa Sandford. La sede de mis antepasados."
 
 # game/script.rpy:8423
 translate spanish p5Ic8_211f3e09:
@@ -16491,7 +16491,7 @@ translate spanish p5Rc2_9285d1e5:
 translate spanish p5Rc2_775ea8dc:
 
     # r "But please disregard my platitudes. Welcome to Sandford house, the most illustrious property on the island."
-    r "Pero, por favor, ignora mis tópicos. Bienvenido a Sandford House, la propiedad más ilustre de la isla."
+    r "Pero, por favor, ignora mis tópicos. Bienvenido a  la casa Sandford, la propiedad más ilustre de la isla."
 
 # game/script.rpy:9028
 translate spanish p5Rc2_3ffca0a5:
@@ -16515,7 +16515,7 @@ translate spanish p5Rc2_bb6f5896:
 translate spanish p5Rc2_4ade8f22:
 
     # r "Did you know that the history of Sandford house dates back to the seventeenth century?"
-    r "¿Sabías que la historia de Sandford House se remonta al siglo XVII?"
+    r "¿Sabías que la historia de la casa Sandford se remonta al siglo XVII?"
 
 # game/script.rpy:9040
 translate spanish p5Rc2_eb34165e:
@@ -16557,7 +16557,7 @@ translate spanish p5Rc2_13343e4e:
 translate spanish p5Rc2_6f3e8121:
 
     # r "After the evacuation of Abbot, the church acquired Sandford house."
-    r "Después de la evacuación de Abbot, la iglesia adquirió Sandford House."
+    r "Después de la evacuación de Abbot, la iglesia adquirió la casa Sandford."
 
 # game/script.rpy:9058
 translate spanish p5Rc2_34790889:
@@ -16575,7 +16575,7 @@ translate spanish p5Rc2_64203fca:
 translate spanish p5Rc2_0b6a89a3:
 
     # r "To this day, Sandford house remains property of the church. No matter how much that old letch Leopold offers us, we'll never relinquish it to him."
-    r "Hasta el día de hoy, la Sandford House sigue siendo propiedad de la iglesia. No importa cuánto nos ofrezca ese viejo vagabundo Leopold, nunca se la entregaremos."
+    r "Hasta el día de hoy, la casa Sandford sigue siendo propiedad de la iglesia. No importa cuánto nos ofrezca ese viejo vagabundo Leopold, nunca se la entregaremos."
 
 # game/script.rpy:9068
 translate spanish p5Rc2_798199bb:
@@ -17181,7 +17181,7 @@ translate spanish p5Rc3_4752d53c:
 translate spanish p5Rc3_e4692f58:
 
     # r "Sandford house lies on an elevation, it's higher than even the surrounding island."
-    r "La Sandford House se encuentra en una elevación, es más alta incluso que la isla circundante."
+    r "La casa Sandford se encuentra en una elevación, es más alta incluso que la isla circundante."
 
 # game/script.rpy:9301
 translate spanish p5Rc3_4423630b:
@@ -18507,7 +18507,7 @@ translate spanish p5Rc6_358ff646:
 translate spanish p5Rc6_24d88250:
 
     # "Although I admired Rika's sturdy constitution, I privately longed for the consoling comfort of Sandford house."
-    "Aunque admiraba la constitución robusta de Rika, anhelaba en privado la consoladora comodidad de la casa de Sandford."
+    "Aunque admiraba la constitución robusta de Rika, anhelaba en privado la consoladora comodidad de la casa Sandford."
 
 # game/script.rpy:9953
 translate spanish p5Rc6_691b7fbe:
